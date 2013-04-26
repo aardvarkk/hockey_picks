@@ -169,6 +169,13 @@ TeamGamesPlayed RunPlayoffs(Teams const& teams, int runs)
   // Run it a bunch of times
   for (auto i = 0; i < runs; ++i) {
     
+    static int perc = -1;
+    int new_perc = i * 100 / runs;
+    if (new_perc != perc) {
+      std::cout << "Simulation " << new_perc << "% done." << std::endl;
+        perc = new_perc;
+    }
+
     Teams teams_in = teams;
     Teams teams_out;
 
@@ -183,6 +190,8 @@ TeamGamesPlayed RunPlayoffs(Teams const& teams, int runs)
   for (auto it = games_played.begin(); it != games_played.end(); ++it) {
     it->second /= runs;
   }
+
+  std::cout << "Simulation done." << std::endl;
 
   return games_played;
 }
@@ -245,8 +254,10 @@ PlayerPointsList ScorePlayers(Players const& players, Teams const& teams, TeamGa
     bool found = GetTeam(it->team, teams, player_team);
     // Get the number of playoff games for this team
     float pgp = found ? tgp.find(player_team)->second : 0.f;
+    // Get percentage of expected games player will play (injuries, etc.)
+    float exp_game_perc = static_cast<float>(it->gp) / kGameTotal;
     // Get the estimated number of points for this player
-    float player_pts = pgp * player_ppg;
+    float player_pts = pgp * player_ppg * exp_game_perc;
     // Add to our data
     pp.push_back(std::make_pair(*it, player_pts));
   }
@@ -274,7 +285,7 @@ int main(int argc, char* argv[])
   // Write out the results
   std::ofstream f("scores.txt");
   for (auto it = ppl.begin(); it != ppl.end(); ++it) {
-    f << std::left << std::setw(30) << it->first.name << std::left << std::setw(4) << it->first.team << it->second << std::endl;
+    f << std::left << std::setw(30) << it->first.name << std::left << std::setw(4) << it->first.team << std::left << std::setw(3) << it->first.gp << it->second << std::endl;
   }
   f.close();
 }
