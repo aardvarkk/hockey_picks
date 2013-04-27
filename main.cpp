@@ -15,7 +15,7 @@ struct Team
   int seed;
   int won;
   int lost;
-  int otwon;
+  int otlost;
 
   bool operator<(Team const& t) const
   {
@@ -33,6 +33,7 @@ struct Player
   std::string team;
   int gp;
   int pts;
+  std::string pos;
 
   bool operator<(Player const& p) const
   {
@@ -117,11 +118,11 @@ GameSplit SimulateSeries(Matchup const& matchup)
     int g2 = rnd_game(eng);
 
     // Check if each team won
-    bool t1win = g1 <= t1.won + t1.otwon;
-    bool t2win = g2 <= t2.won + t2.otwon;
+    bool t1win = g1 <= t1.won;
+    bool t2win = g2 <= t2.won;
 
-    // If this result doesn't make sense (both won) then discard it and start again
-    if (t1win && t2win) continue;
+    // If this result doesn't make sense (both won or both lost) then discard it and start again
+    if (t1win == t2win) continue;
 
     // Mark down the results
     result.first  += t1win;
@@ -134,10 +135,10 @@ GameSplit SimulateSeries(Matchup const& matchup)
 void RunRound(Teams const& teams, TeamGamesPlayed& games_played, Teams& teams_remaining)
 {
   // Sort by conference, then by seed
-  Teams sorted_teams = teams;
+  Teams teams_copy = teams;
 
   // If we have 2 teams left, they'll be from separate conferences, so they'll match each other
-  Matchups matchups = GetMatchups(sorted_teams);
+  Matchups matchups = GetMatchups(teams_copy);
 
   // Collect all the winners
   Teams winners;
@@ -162,7 +163,7 @@ void RunRound(Teams const& teams, TeamGamesPlayed& games_played, Teams& teams_re
   teams_remaining = winners;
 }
 
-TeamGamesPlayed RunPlayoffs(Teams const& teams, int runs)
+TeamGamesPlayed RunPlayoffs(Teams const& teams, int runs, TeamGamesPlayed& win_perc)
 {
   TeamGamesPlayed games_played;
 
@@ -184,10 +185,16 @@ TeamGamesPlayed RunPlayoffs(Teams const& teams, int runs)
       RunRound(teams_in, games_played, teams_out);
       teams_in = teams_out;
     }
+
+    // We have found a winner!
+    win_perc[teams_out.front()] += 1;
   }
 
   // Normalize by the number of runs we've done...
   for (auto it = games_played.begin(); it != games_played.end(); ++it) {
+    it->second /= runs;
+  }
+  for (auto it = win_perc.begin(); it != win_perc.end(); ++it) {
     it->second /= runs;
   }
 
@@ -207,13 +214,13 @@ Teams GetTeams(strtk::token_grid const& grid)
     t.seed = r.get<int>(2);
     t.won = r.get<int>(3);
     t.lost = r.get<int>(4);
-    t.otwon = r.get<int>(5);
+    t.otlost = r.get<int>(5);
     teams.push_back(t);
   }
   return teams;
 }
 
-Players GetPlayers(strtk::token_grid const& grid)
+Players GetPlayers(strtk::token_grid const& grid, std::string const& pos)
 {
   Players players;
   for (size_t i = 0; i < grid.row_count(); ++i) {
@@ -223,6 +230,7 @@ Players GetPlayers(strtk::token_grid const& grid)
     p.team = r.get<std::string>(1);
     p.gp = r.get<int>(2);
     p.pts = r.get<int>(3);
+    p.pos = pos; // copy inputted position
     players.push_back(p);
   }
   return players;
@@ -255,7 +263,7 @@ PlayerPointsList ScorePlayers(Players const& players, Teams const& teams, TeamGa
     // Get the number of playoff games for this team
     float pgp = found ? tgp.find(player_team)->second : 0.f;
     // Get percentage of expected games player will play (injuries, etc.)
-    float exp_game_perc = static_cast<float>(it->gp) / kGameTotal;
+    float exp_game_perc = 1.f;//static_cast<float>(it->gp) / kGameTotal;
     // Get the estimated number of points for this player
     float player_pts = pgp * player_ppg * exp_game_perc;
     // Add to our data
@@ -271,21 +279,35 @@ PlayerPointsList ScorePlayers(Players const& players, Teams const& teams, TeamGa
 int main(int argc, char* argv[]) 
 {
   strtk::token_grid teams_csv("teamdata.csv");
-  strtk::token_grid players_csv("playerdata.csv");
+  strtk::token_grid forwards_csv("forwards.csv");
+  strtk::token_grid defense_csv("defense.csv");
 
   Teams t = GetTeams(teams_csv);
-  Players p = GetPlayers(players_csv);
+  Players fwd = GetPlayers(forwards_csv, "F");
+  Players def = GetPlayers(defense_csv, "D");
+  
+  // Combine the players into one big list
+  Players all;
+  all.insert(all.end(), fwd.begin(), fwd.end());
+  all.insert(all.end(), def.begin(), def.end());
 
   // Run the playoffs some number of times to get average number of games played per team
-  TeamGamesPlayed tgp = RunPlayoffs(t, 100000);
+  TeamGamesPlayed win_perc;
+  TeamGamesPlayed tgp = RunPlayoffs(t, 100000, win_perc);
 
   // Generate player scores based on the number of games we expect the team to play
-  PlayerPointsList ppl = ScorePlayers(p, t, tgp);
+  PlayerPointsList ppl = ScorePlayers(all, t, tgp);
 
   // Write out the results
-  std::ofstream f("scores.txt");
+  std::ofstream picks("scores.txt");
   for (auto it = ppl.begin(); it != ppl.end(); ++it) {
-    f << std::left << std::setw(30) << it->first.name << std::left << std::setw(4) << it->first.team << std::left << std::setw(3) << it->first.gp << it->second << std::endl;
+    picks << std::left << std::setw(30) << it->first.name << it->first.pos << " " << std::left << std::setw(4) << it->first.team << std::left << std::setw(3) << it->first.gp << it->second << std::endl;
   }
-  f.close();
+  picks.close();
+
+  std::ofstream winners("winners.txt");
+  for (auto it = win_perc.begin(); it != win_perc.end(); ++it) {
+    winners << std::left << std::setfill(' ') << std::setw(4) << it->first.name << std::internal << std::fixed << std::setprecision(2) << std::setfill('0') << std::setw(5) << it->second * 100 << "%" << std::endl;
+  }
+  winners.close();
 }
