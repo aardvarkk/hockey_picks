@@ -10,9 +10,10 @@ require 'pry'
 def add_results(result_arr)
 end
 
-def important_cols
+def player_important_cols
   {
     name: 3,
+    position: 5,
     goals: 7,
     assists: 8,
     plus_minus: 11,
@@ -25,7 +26,22 @@ def important_cols
   }
 end
 
-def multipliers
+def goalies_important_cols
+  {
+    name: 3,
+    wins: 8,
+    shutouts: 10
+  }
+end
+
+def goalies_multipliers
+  {
+    wins: 5,
+    shutouts: 3
+  }
+end
+
+def player_multipliers
   {
     goals: 5,
     assists: 3,
@@ -39,10 +55,10 @@ def multipliers
   }
 end
 
-def append_page_results(page, results)
+def append_page_results(type, page, results)
   rows = page.xpath('//table/tbody/tr')
   results.concat(rows.map do |row|
-    important_cols.map do |stat, col|
+    send("#{type.downcase}_important_cols").map do |stat, col|
       val = row.xpath('./td')[col-1].text
       val = Float(val) rescue val
       [stat, val]
@@ -50,10 +66,10 @@ def append_page_results(page, results)
   end)
 end
 
-def gen_params(page_num)
+def gen_params(type, page_num)
   {
     cat: 'Season',
-    pos: 'Player',
+    pos: type,
     SS: '2017-18',
     st: 'reg',
     lang: 'en',
@@ -62,15 +78,15 @@ def gen_params(page_num)
   }
 end
 
-def gen_uri(page_num)
+def gen_uri(type, page_num)
   uri = URI('https://www.quanthockey.com/scripts/AjaxPaginate.php')
-  uri.query = URI.encode_www_form(gen_params(page_num))
+  uri.query = URI.encode_www_form(gen_params(type, page_num))
   uri
 end
 
-def get_page(page_num)
-  puts "Retrieving page #{page_num}"
-  Nokogiri::HTML(open(gen_uri(page_num)))
+def get_page(type, page_num)
+  puts "Retrieving #{type} page #{page_num}"
+  Nokogiri::HTML(open(gen_uri(type, page_num)))
 end
 
 def score_results(results, mults)
@@ -82,19 +98,27 @@ def score_results(results, mults)
   end
 end
 
-results = []
-page = get_page(1)
-append_page_results(page, results)
-num_pages = page.xpath('//ul[1]/li[last()-1]/a').text.to_i
+def collect_results(type)
+  results = []
+  page = get_page(type, 1)
+  append_page_results(type, page, results)
+  num_pages = page.xpath('//ul[1]/li[last()-1]/a').text.to_i
 
-(2..num_pages).each do |page_num|
-  page = get_page(page_num)
-  append_page_results(page, results)
+  (2..num_pages).each do |page_num|
+    page = get_page(type, page_num)
+    append_page_results(type, page, results)
+  end
+
+  score_results(results, send("#{type.downcase}_multipliers"))
 end
 
-scored_results = score_results(results, multipliers).sort_by{ |stats| stats[:score] }.reverse!
-File.open('skaters.txt', 'w') do |f|
+results = []
+results.concat(collect_results('Player'))
+results.concat(collect_results('Goalies'))
+
+scored_results = results.sort_by{ |stats| stats[:score] }.reverse!
+File.open('picks.txt', 'w') do |f|
   scored_results.each do |player|
-    f.puts "#{player[:name]} #{player[:score]}"
+    f.puts "#{player[:name].ljust(30)} #{(player[:position] || 'G').ljust(3)} #{player[:score].to_s.ljust(5)}"
   end
 end
