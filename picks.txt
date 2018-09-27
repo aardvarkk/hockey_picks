@@ -1,1080 +1,1080 @@
-Alexander Ovechkin             F   964.0
-Evgeni Malkin                  F   858.0
-Nathan MacKinnon               F   846.0
-Taylor Hall                    F   844.0
-Tyler Seguin                   F   842.0
-Vincent Trocheck               F   832.0
-Nikita Kucherov                F   831.0
-Jamie Benn                     F   824.0
-Connor McDavid                 F   812.0
-Blake Wheeler                  F   810.0
-Evander Kane                   F   785.0
-_Dustin Brown                   F   782.0
-Sidney Crosby                  F   781.0
-Jonathan Marchessault          F   766.0
-Brayden Schenn                 F   750.0
-Phil Kessel                    F   743.0
-Steven Stamkos                 F   743.0
-Vladimir Tarasenko             F   733.0
-Brent Burns                    D   725.0
-Patrik Laine                   F   723.0
-David Pastrnak                 F   720.0
-Victor Hedman                  D   720.0
-Claude Giroux                  F   719.0
-Tom Wilson                     F   708.0
-Anze Kopitar                   F   705.0
-_Sean Couturier                 F   696.0
-Brad Marchand                  F   696.0
-John Tavares                   F   696.0
-_Patric Hörnqvist               F   695.0
-Alexander Radulov              F   694.0
-Eric Staal                     F   690.0
-Jakub Vorácek                  F   682.0
-P.K. Subban                    D   682.0
-Rickard Rakell                 F   682.0
-Evgeny Kuznetsov               F   668.0
-Dustin Byfuglien               D   665.0
-William Karlsson               F   662.0
-Jason Zucker                   F   660.0
-Gabriel Landeskog              F   658.0
-Drew Doughty                   D   658.0
-Brendan Gallagher              F   656.0
-Patrick Kane                   F   649.0
-Joe Pavelski                   F   648.0
-Artemi Panarin                 F   644.0
-Anders Lee                     F   643.0
-Aleksander Barkov              F   642.0
-Seth Jones                     D   640.0
-Mikko Rantanen                 F   630.0
-Filip Forsberg                 F   629.0
-Johnny Gaudreau                F   627.0
-Patrice Bergeron               F   625.0
-John Carlson                   D   622.0
-Nazem Kadri                    F   622.0
-Dougie Hamilton                D   616.0
-Roman Josi                     D   615.0
-Dylan Larkin                   F   608.0
-Milan Lucic                    F   607.0
-Viktor Arvidsson               F   605.0
-James van Riemsdyk             F   603.0
-Shayne Gostisbehere            D   600.0
-Brayden Point                  F   598.0
-Jack Eichel                    F   597.0
-Rasmus Ristolainen             D   594.0
-Kristopher Letang              D   592.0
-Nikolaj Ehlers                 F   588.0
-Sebastian Aho                  F   586.0
-Mathew Barzal                  F   583.0
-Jonathan Huberdeau             F   582.0
-Mathew Dumba                   D   579.0
-Sean Monahan                   F   578.0
-Wayne Simmonds                 F   577.0
-Torey Krug                     D   574.0
-Colin Miller                   D   573.0
-Nick Bjugstad                  F   572.0
-Pierre-Luc Dubois              F   571.0
-J.T. Miller                    F   569.0
-Jordan Staal                   F   569.0
-Nicklas Bäckström              F   568.0
-Oliver Ekman-Larsson           D   568.0
-David Perron                   F   568.0
-Craig Smith                    F   568.0
-Tyler Toffoli                  F   566.0
-Mike Hoffman                   F   564.0
-Boone Jenner                   F   564.0
-Matthew Tkachuk                F   561.0
-Jake Guentzel                  F   560.0
-Mikael Granlund                F   559.0
-Mitchell Marner                F   559.0
-Ivan Provorov                  D   559.0
-Nikita Zadorov                 D   557.0
-Logan Couture                  F   557.0
-Yanni Gourde                   F   557.0
-John Klingberg                 D   553.0
-Anthony Mantha                 F   552.0
-Erik Haula                     F   550.0
-Patrick Maroon                 F   550.0
-Jake Muzzin                    D   547.0
-Leon Draisaitl                 F   545.0
-Travis Konecny                 F   544.0
-Jeff Petry                     D   543.0
-Mika Zibanejad                 F   541.0
-Kyle Palmieri                  F   540.0
-Mark Giordano                  D   539.0
-Ryan O'Reilly                  F   538.0
-Ryan Johansen                  F   537.0
-Justin Williams                F   537.0
-Jeff Skinner                   F   536.0
-Timo Meier                     F   534.0
-Auston Matthews                F   533.0
-Darnell Nurse                  D   531.0
-Nick Ritchie                   F   529.0
-Max Pacioretty                 F   528.0
-Patrick Marleau                F   528.0
-Alexander Edler                D   527.0
-Blake Coleman                  F   527.0
-Derick Brassard                F   525.0
-Clayton Keller                 F   524.0
-Josh Manson                    D   523.0
-Alex Pietrangelo               D   523.0
-Evgeny Dadonov                 F   522.0
-Michael Ferland                F   521.0
-Reilly Smith                   F   519.0
-Derek Stepan                   F   518.0
-Mikael Backlund                F   517.0
-Tomas Hertl                    F   517.0
-Teuvo Teräväinen               F   517.0
-Jordan Eberle                  F   516.0
-Justin Faulk                   D   514.0
-Aaron Ekblad                   D   514.0
-Jonathan Toews                 F   513.0
-Cam Atkinson                   F   513.0
-Daniel Sedin                   F   513.0
-Erik Karlsson                  D   510.0
-Nick Foligno                   F   509.0
-Matt Duchene                   F   509.0
-Vladislav Namestnikov          F   509.0
-Ryan Getzlaf                   F   508.0
-Jaden Schwartz                 F   504.0
-Austin Watson                  F   504.0
-Kyle Connor                    F   503.0
-T.J. Oshie                     F   503.0
-Tanner Pearson                 F   502.0
-Justin Abdelkader              F   500.0
-Michael Del Zotto              D   500.0
-Corey Perry                    F   499.0
-William Nylander               F   498.0
-Mats Zuccarello                F   497.0
-Brock Boeser                   F   496.0
-Alex Killorn                   F   496.0
-David Backes                   F   494.0
-Kevin Fiala                    F   491.0
-Tyson Barrie                   D   490.0
-Sam Reinhart                   F   490.0
-Tyler Johnson                  F   487.0
-Adam Henrique                  F   486.0
-Mark Scheifele                 F   486.0
-Thomas Vanek                   F   485.0
-Mathieu Perreault              F   485.0
-Nico Hischier                  F   484.0
-Josh Anderson                  F   484.0
-Zach Hyman                     F   480.0
-Alex Galchenyuk                F   480.0
-Gustav Nyquist                 F   478.0
-Joshua Bailey                  F   477.0
-Ryan Suter                     D   476.0
-Henrik Zetterberg              F   474.0
-Colton Parayko                 D   473.0
-Mikko Koivu                    F   472.0
-James Neal                     F   471.0
-Alex DeBrincat                 F   471.0
-Keith Yandle                   D   471.0
-Alex Tuch                      F   469.0
-Miles Wood                     F   467.0
-Brandon Montour                D   464.0
-Richard Panik                  F   463.0
-Blake Comeau                   F   461.0
-Charles Hudon                  F   460.0
-Mikhail Sergachyov             D   460.0
-Zdeno Chara                    D   460.0
-Mark Stone                     F   460.0
-Rick Nash                      F   459.0
-Zachary Werenski               D   458.0
-Morgan Rielly                  D   458.0
-Elias Lindholm                 F   452.0
-Erik Johnson                   D   450.0
-Chris Kreider                  F   449.0
-Andrew Cogliano                F   449.0
-Radko Gudas                    D   448.0
-Brayden McNabb                 D   448.0
-Cal Clutterbuck                F   446.0
-Sam Bennett                    F   446.0
-Dion Phaneuf                   D   446.0
-Olli Määttä                    D   445.0
-Kyle Okposo                    F   445.0
-Ryan Pulock                    D   445.0
-Chris Wagner                   F   443.0
-Nick Deslauriers               D   442.0
-Leo Komarov                    F   442.0
-Ryan Nugent-Hopkins            F   442.0
-Kevin Hayes                    F   439.0
-Stephen Johns                  D   439.0
-Jakob Silfverberg              F   439.0
-Kyle Turris                    F   438.0
-Ryan Hartman                   F   438.0
-Brock McGinn                   F   437.0
-Vladimir Sobotka               F   437.0
-Jonathan Drouin                F   437.0
-Paul Stastny                   F   437.0
-Darren Helm                    F   437.0
-Tyler Myers                    D   436.0
-Max Domi                       F   436.0
-Carl Hagelin                   F   436.0
-Michael Grabner                F   435.0
-Jake DeBrusk                   F   434.0
-Mattias Ekholm                 D   432.0
-Tomas Tatar                    F   432.0
-Alexander Steen                F   431.0
-Marcus Foligno                 F   431.0
-Lars Eller                     F   430.0
-Brandon Saad                   F   429.0
-Adrian Kempe                   F   429.0
-Paul Byron                     F   428.0
-Jean-Gabriel Pageau            F   424.0
-Adam Larsson                   D   424.0
-Colton Sissons                 F   424.0
-Jake Gardiner                  D   421.0
-Radek Faksa                    F   417.0
-Dmitri Jaskin                  F   416.0
-Hampus Lindholm                D   415.0
-Brenden Dillon                 D   414.0
-Jamie Oleksiak                 D   414.0
-Bryan Rust                     F   414.0
-Micheal Haley                  F   413.0
-Tyler Bozak                    F   412.0
-Danton Heinen                  F   412.0
-Charlie McAvoy                 D   411.0
-Christian Fischer              F   411.0
-Bo Horvat                      F   411.0
-Dmitry Orlov                   D   410.0
-Carl Söderberg                 F   408.0
-Tyler Pitlick                  F   408.0
-Christian Dvorak               F   405.0
-Ryan Reaves                    F   405.0
-Oliver Bjorkstrand             F   404.0
-Ryan Dzingel                   F   403.0
-John Moore                     D   403.0
-Jake Virtanen                  F   403.0
-Pavel Buchnevich               F   403.0
-Justin Braun                   D   402.0
-Stefan Noesen                  F   402.0
-Nick Leddy                     D   402.0
-Sami Vatanen                   D   401.0
-Matt Niskanen                  D   401.0
-Anthony Beauvillier            F   400.0
-Trevor Lewis                   F   398.0
-Matthew Benning                D   398.0
-Bryan Little                   F   398.0
-Nino Niederreiter              F   397.0
-Robert Hägg                    D   397.0
-Josh Morrissey                 D   397.0
-Brian Boyle                    F   395.0
-Tim Schaller                   F   395.0
-Kevin Labanc                   F   395.0
-Riley Nash                     F   394.0
-Michael Matheson               D   394.0
-Brett Ritchie                  F   394.0
-Brock Nelson                   F   392.0
-Brady Skjei                    D   390.0
-Mark Borowiecki                D   389.0
-Jamie McGinn                   F   389.0
-Brendan Perlini                F   386.0
-Alex Goligoski                 D   385.0
-Noah Hanifin                   D   383.0
-Esa Lindell                    D   383.0
-Patrik Berglund                F   381.0
-Nick Schmaltz                  F   380.0
-David Savard                   D   380.0
-Antoine Roussel                F   377.0
-Ondrej Kase                    F   376.0
-Chris Kunitz                   F   375.0
-Mike Green                     D   375.0
-David Krejcí                   F   374.0
-Sam Gagner                     F   374.0
-Zack Kassian                   F   374.0
-Tommy Wingels                  F   374.0
-Brandon Tanev                  F   373.0
-Drake Caggiula                 F   370.0
-Cody Ceci                      D   370.0
-Sean Kuraly                    F   369.0
-Kyle Brodziak                  F   368.0
-Ryan Strome                    F   366.0
-Kevan Miller                   D   366.0
-Joel Armia                     F   364.0
-Damon Severson                 D   364.0
-Brent Seabrook                 D   364.0
-Alec Martinez                  D   364.0
-Joel Edmundson                 D   361.0
-Garnet Hathaway                F   361.0
-Brooks Orpik                   D   361.0
-Charlie Coyle                  F   361.0
-Jacob Trouba                   D   360.0
-Derek Ryan                     F   360.0
-Marc-Edouard Vlasic            D   359.0
-Brandon Manning                D   357.0
-Ondrej Palat                   F   357.0
-Colton Sceviour                F   356.0
-Scott Hartnell                 F   355.0
-Jimmy Vesey                    F   353.0
-Johnny Boychuk                 D   353.0
-Jesper Fast                    F   353.0
-Ryan Spooner                   F   352.0
-Frans Nielsen                  F   352.0
-Greg Pateryn                   D   352.0
-Devante Smith-Pelly            F   350.0
-Duncan Keith                   D   349.0
-Victor Rask                    F   349.0
-Jason Pominville               F   348.0
-Scott Laughton                 F   347.0
-Artturi Lehkonen               F   346.0
-Oscar Klefbom                  D   346.0
-Nick Cousins                   F   345.0
-Alexander Kerfoot              F   345.0
-Anton Strålman                 D   344.0
-Derek Forbort                  D   343.0
-Deryk Engelland                D   343.0
-Tomá Plekanec                 F   343.0
-Alex Petrovic                  D   343.0
-Bobby Ryan                     F   342.0
-Joel Eriksson Ek               F   342.0
-Andrew Ladd                    F   342.0
-Nolan Patrick                  F   342.0
-Daniel Girardi                 D   342.0
-Ian Cole                       D   341.0
-Jared McCann                   F   340.0
-Troy Brouwer                   F   339.0
-Marco Scandella                D   338.0
-Mikkel Bødker                  F   337.0
-Ryan Callahan                  F   337.0
-Andreas Athanasiou             F   336.0
-Jared Spurgeon                 D   335.0
-Jujhar Khaira                  F   334.0
-Kevin Connauton                D   332.0
-Joonas Donskoi                 F   331.0
-Andrew Copp                    F   331.0
-Brandon Dubinsky               F   329.0
-Chris Tierney                  F   328.0
-Luke Schenn                    D   326.0
-Calle Järnkrok                 F   326.0
-Connor Murphy                  D   324.0
-Jaccob Slavin                  D   324.0
-Conor Sheary                   F   323.0
-Michael Raffl                  F   323.0
-Mattias Janmark-Nylén          F   322.0
-Devin Shore                    F   322.0
-Zemgus Girgensons              F   322.0
-Jordan Martinook               F   321.0
-Nate Schmidt                   D   321.0
-Michael Frolík                 F   321.0
-Artem Anisimov                 F   320.0
-Alexei Emelin                  D   318.0
-Luke Glendening                F   316.0
-Andrew Shaw                    F   313.0
-Ryan McDonagh                  D   312.0
-Zack Smith                     F   312.0
-Zac Rinaldo                    F   312.0
-Pavel Zacha                    F   311.0
-Shea Theodore                  D   311.0
-Adam Pelech                    D   311.0
-Scottie Upshall                F   310.0
-Cam Fowler                     D   310.0
-Tobias Rieder                  F   309.0
-Jesse Puljujärvi               F   308.0
-Joe Thornton                   F   308.0
-Will Butcher                   D   308.0
-Jesper Bratt                   F   307.0
-Jonathan Ericsson              D   305.0
-Alex Iafallo                   F   303.0
-Mark Jankowski                 F   302.0
-Christian Folin                D   302.0
-Ryan Ellis                     D   300.0
-Niklas Kronwall                D   299.0
-Riley Sheahan                  F   298.0
-Robert Bortuzzo                D   298.0
-Karl Alzner                    D   297.0
-Cody Eakin                     F   296.0
-Adam Lowry                     F   296.0
-Jakub Vrana                    F   295.0
-Travis Hamonic                 D   295.0
-Mike Cammalleri                F   295.0
-Francois Beauchemin            D   295.0
-Brian Dumoulin                 D   294.0
-Kyle Clifford                  F   294.0
-Thomas Hickey                  D   292.0
-Justin Schultz                 D   292.0
-Martin Frk                     F   291.0
-Vince Dunn                     D   290.0
-Nick Holden                    D   290.0
-Brett Connolly                 F   288.0
-Travis Zajac                   F   288.0
-Phillip Danault                F   287.0
-Matt Calvert                   F   286.0
-Matthew Martin                 F   285.0
-Derek MacKenzie                F   284.0
-J.T. Compher                   F   284.0
-Henrik Sedin                   F   283.0
-Magnus Pääjärvi                F   283.0
-Brandon Sutter                 F   283.0
-Johan Larsson                  F   283.0
-Ron Hainsey                    D   281.0
-Cody McLeod                    F   281.0
-Jordie Benn                    D   281.0
-Connor Brown                   F   281.0
-Jason Chimera                  F   281.0
-Patrick Sharp                  F   280.0
-Kevin Bieksa                   D   280.0
-Casey Cizikas                  F   279.0
-Jason Spezza                   F   276.0
-Jason Demers                   D   276.0
-Noel Acciari                   F   275.0
-Zach Parise                    F   275.0
-Logan Shaw                     F   274.0
-Mark Pysyk                     D   274.0
-Kevin Shattenkirk              D   273.0
-Alexander Wennberg             F   272.0
-Alex Biega                     D   272.0
-John Hayden                    F   272.0
-Troy Stecher                   D   271.0
-Andre Burakovsky               F   271.0
-Tyler Ennis                    F   271.0
-Derrick Pouliot                D   271.0
-Tyson Jost                     F   270.0
-Mark Letestu                   F   270.0
-Scott Wilson                   F   270.0
-Alexandre Burrows              F   270.0
-T.J. Brodie                    D   270.0
-Fredrik Claesson               D   269.0
-Roman Polák                    D   269.0
-Matt Hendricks                 F   266.0
-Kris Russell                   D   263.0
-Lance Bouma                    F   262.0
-Sven Bärtschi                  F   261.0
-Benoit Pouliot                 F   261.0
-Jordan Nolan                   F   261.0
-Tyler Bertuzzi                 F   260.0
-Patrik Nemeth                  D   260.0
-Michael Stone                  D   259.0
-Dan Hamhuis                    D   259.0
-Nail Yakupov                   F   258.0
-Ryan Kesler                    F   257.0
-Nikita Zaitsev                 D   257.0
-Nate Thompson                  F   256.0
-Cedric Paquette                F   255.0
-Anthony Duclair                F   255.0
-Ben Chiarot                    D   255.0
-Joe Morrow                     D   254.0
-Jakob Chychrun                 D   254.0
-Melker Karlsson                F   254.0
-Jacob de la Rose               F   252.0
-Curtis Lazar                   F   252.0
-Remi Elie                      F   250.0
-Brian Gibbons                  F   250.0
-Brad Richardson                F   249.0
-Thomas Chabot                  D   249.0
-Sven Andrighetto               F   248.0
-Valtteri Filppula              F   247.0
-Jonas Brodin                   D   247.0
-Jack Johnson                   D   246.0
-Derek Grant                    F   245.0
-Nick Jensen                    D   244.0
-Andrei Vasilevski              G   244.0
-Denis Malgin                   F   243.0
-Tom Pyatt                      F   242.0
-Drew Stafford                  F   242.0
-Matthew Nieto                  F   242.0
-Dylan Demelo                   D   241.0
-Ryan Carpenter                 F   241.0
-Braydon Coburn                 D   240.0
-Brandon Carlo                  D   239.0
-Jay Beagle                     F   238.0
-Andreas Borgman                D   238.0
-Connor Hellebuyck              G   238.0
-Jake Dotchin                   D   238.0
-Markus Nutivaara               D   237.0
-Andrew MacDonald               D   236.0
-Trevor Daley                   D   235.0
-Tom Kühnhackl                  F   235.0
-Pekka Rinne                    G   234.0
-Andy Greene                    D   234.0
-Jeff Carter                    F   233.0
-Antoine Vermette               F   231.0
-Mackenzie Weegar               D   231.0
-Samuel Girard                  D   230.0
-Matt Cullen                    F   229.0
-Vince Hinostroza               F   228.0
-Erik Gudbranson                D   226.0
-Tomas Nosek                    F   226.0
-Steve Santini                  D   225.0
-Matt Grzelcyk                  D   225.0
-Daniel Winnik                  F   224.0
-Alex Chiasson                  F   224.0
-Nick Bonino                    F   224.0
-Joakim Nordström               F   224.0
-Brendan Smith                  D   223.0
-Brett Pesce                    D   222.0
-Jake McCabe                    D   222.0
-Trevor Van Riemsdyk            D   221.0
-Shea Weber                     D   220.0
-Phil Di Giuseppe               F   220.0
-Danny DeKeyser                 D   219.0
-Miikka Salomäki                F   219.0
-Jordan Oesterle                D   219.0
-Ben Lovejoy                    D   219.0
-Gabriel Bourque                F   218.0
-Matthew Stajan                 F   217.0
-Michal Kempny                  D   215.0
-Evan Rodrigues                 F   215.0
-Marian Gaborik                 F   215.0
-Brendan Leipsic                F   215.0
-Scott Mayfield                 D   214.0
-Pierre-Edouard Bellemare       F   214.0
-Chris Thorburn                 F   213.0
-Barclay Goodrow                F   213.0
-Nick Shore                     F   213.0
-Chris Stewart                  F   210.0
-Loui Eriksson                  F   209.0
-Jordan Weal                    F   208.0
-Brandon Davidson               D   208.0
-Oscar Lindberg                 F   207.0
-Sonny Milano                   F   207.0
-Haydn Fleury                   D   207.0
-Connor Brickley                F   205.0
-Frederik Andersen              G   205.0
-Andy Andreoff                  F   205.0
-Frank Vatrano                  F   204.0
-Jan Rutta                      D   201.0
-Markus Granlund                F   200.0
-Sergei Bobrovsky               G   200.0
-Marc Staal                     D   199.0
-Mike Reilly                    D   197.0
-Adam McQuaid                   D   196.0
-Colin Wilson                   F   194.0
-Josh Archibald                 F   194.0
-William Carrier                F   192.0
-Devan Dubnyk                   G   190.0
-Tyler Motte                    F   190.0
-Dmitri Kulikov                 D   186.0
-Anton Slepyshev                F   186.0
-Paul Carey                     F   186.0
-Martin Hanzal                  F   185.0
-Brad Hunt                      D   184.0
-Connor Carrick                 D   183.0
-Derek Dorsett                  F   183.0
-David Desharnais               F   183.0
-Jussi Jokinen                  F   181.0
-Ben Hutton                     D   180.0
-Jonathan Quick                 G   180.0
-Torrey Mitchell                F   179.0
-Tuukka Rask                    G   179.0
-Matt Irwin                     D   178.0
-Justin Falk                    D   178.0
-Joakim Ryan                    D   178.0
-Pontus Åberg                   F   177.0
-Lukas Sedlak                   F   177.0
-Erik Gustafsson                D   174.0
-Johnny Oduya                   D   174.0
-Ivan Barbashev                 F   173.0
-Nic Dowd                       F   172.0
-Radim Vrbata                   F   172.0
-Carl Gunnarsson                D   172.0
-Gustav Forsling                D   170.0
-Brett Kulak                    D   170.0
-Braden Holtby                  G   170.0
-Byron Froese                   F   168.0
-Neal Pionk                     D   168.0
-John Gibson                    G   167.0
-Dale Weise                     F   167.0
-Travis Dermott                 D   167.0
-Mark Barberio                  D   166.0
-Kurtis MacDermid               D   163.0
-Martin Jones                   G   162.0
-Matt Hunwick                   D   161.0
-Chad Ruhwedel                  D   161.0
-Nathan Beaulieu                D   160.0
-Jannik Hansen                  F   160.0
-Cory Conacher                  F   159.0
-Kasperi Kapanen                F   159.0
-Daniel Carr                    F   158.0
-Cameron Talbot                 G   158.0
-Marc-Andre Fleury              G   157.0
-Darren Archibald               F   157.0
-J.T. Brown                     F   157.0
-Marc Methot                    D   155.0
-Dominic Moore                  F   155.0
-Luke Witkowski                 D   154.0
-Christian Djoos                D   153.0
-Madison Bowey                  D   152.0
-Anton Lindholm                 D   151.0
-Ross Johnston                  F   151.0
-Nate Prosser                   D   150.0
-Chandler Stephenson            F   149.0
-Klas Dahlbeck                  D   149.0
-Travis Sanheim                 D   147.0
-Luca Sbisa                     D   146.0
-Calvin de Haan                 D   146.0
-Ben Bishop                     G   145.0
-Brendan Gaunce                 F   143.0
-Joel Ward                      F   143.0
-Iiro Pakarinen                 F   142.0
-Max McCormick                  F   142.0
-Gemel Smith                    F   142.0
-Matt Murray                    G   138.0
-Jake Allen                     G   138.0
-Jori Lehterä                   F   137.0
-Henrik Lundqvist               G   136.0
-Dominik Simon                  F   135.0
-Slater Koekkoek                D   135.0
-Mike Smith                     G   134.0
-Josh Jooris                    F   134.0
-Keith Kinkaid                  G   133.0
-Yohann Auvitu                  D   132.0
-Ian McCoshen                   D   132.0
-Jimmy Hayes                    F   130.0
-Tage Thompson                  F   129.0
-Anthony Deangelo               D   128.0
-Oscar Fantenberg               D   128.0
-Marcus Krüger                  F   128.0
-Jonny Brodzinski               F   126.0
-Semyon Varlamov                G   126.0
-Yannick Weber                  D   124.0
-Tomas Jurco                    F   123.0
-James Reimer                   G   122.0
-Craig Anderson                 G   121.0
-Jacob Markström                G   121.0
-Cam Ward                       G   121.0
-Jay Bouwmeester                D   120.0
-Tim Heed                       D   120.0
-Jack Roslovic                  F   119.0
-David Kämpf                    F   119.0
-Dennis Seidenberg              D   119.0
-Tanner Fritz                   F   118.0
-Brian Elliott                  G   118.0
-Xavier Ouellet                 D   117.0
-Eric Gryba                     D   117.0
-Nikolai Goldobin               F   116.0
-Gabriel Dumont                 F   115.0
-Ryan Murray                    D   115.0
-Antti Raanta                   G   114.0
-John Gilmour                   D   114.0
-Oscar Sundqvist                F   114.0
-Jim Howard                     G   113.0
-Lee Stempniak                  F   112.0
-Marcus Johansson               F   111.0
-Michael McCarron               F   110.0
-Maxim Mamin                    F   108.0
-Jon Merrill                    D   107.0
-Anders Bjork                   F   107.0
-Zach Aston-Reese               F   107.0
-Noah Juulsen                   D   107.0
-Cody Franson                   D   107.0
-Jakub Jerabek                  D   107.0
-Christopher Tanev              D   106.0
-Carter Rowney                  F   106.0
-Casey Nelson                   D   105.0
-Anthony Bitetto                D   104.0
-Anthony Cirelli                F   104.0
-David Schlemko                 D   103.0
-Josh Gorges                    D   103.0
-Jaroslav Halak                 G   103.0
-Oskar Lindblom                 F   101.0
-Jonathan Bernier               G   101.0
-Nicholas Baptiste              F   101.0
-Cristoval Nieves               F   100.0
-Ben Harpur                     D   100.0
-Roberto Luongo                 G   99.0
-Tobias Enström                 D   99.0
-Chris DiDomenico               F   98.0
-Adam Erne                      F   96.0
-Viktor Antipin                 D   95.0
-Kris Versteeg                  F   95.0
-Niklas Hjalmarsson             D   94.0
-Carter Hutton                  G   94.0
-Steven Kampfer                 D   93.0
-Brian Gionta                   F   93.0
-Nikita Scherbak                F   93.0
-Luke Kunin                     F   93.0
-Scott Harrington               D   93.0
-Andrej Sustr                   D   92.0
-Markus Hännikäinen             F   92.0
-Julius Honka                   D   91.0
-Mike Amadio                    F   90.0
-Cory Schneider                 G   88.0
-Dylan Strome                   F   86.0
-Chris Wideman                  D   86.0
-David Booth                    F   86.0
-Corey Crawford                 G   86.0
-Ty Rattie                      F   85.0
-Marcus Sörensen                F   84.0
-Philipp Grubauer               G   84.0
-Gustav Olofsson                D   83.0
-Anton Khudobin                 G   83.0
-A.J. Greer                     F   83.0
-Kevin Roy                      F   83.0
-Carey Price                    G   83.0
-Petr Mrazek                    G   82.0
-Jason Dickinson                F   82.0
-Victor Mete                    D   82.0
-Andrej Sekera                  D   82.0
-Aaron Dell                     G   81.0
-Nick Seeler                    D   80.0
-Robin Lehner                   G   79.0
-Jacob Josefson                 F   79.0
-Ryan Donato                    F   79.0
-Kari Lehtonen                  G   78.0
-Eric Fehr                      F   77.0
-Dennis Rasmussen               F   76.0
-Tristan Jarry                  G   76.0
-Ryan Murphy                    D   75.0
-Brett Lernout                  D   75.0
-Taylor Leier                   F   74.0
-Jaromír Jágr                   F   74.0
-Darcy Kuemper                  G   72.0
-Ryan Miller                    G   72.0
-Alexander Burmistrov           F   71.0
-Rob O'Gara                     D   71.0
-Zack Mitchell                  F   70.0
-Andreas Martinsen              F   70.0
-Colin White                    F   69.0
-Marko Dano                     F   69.0
-Shawn Matthias                 F   68.0
-Taylor Chorney                 D   68.0
-Thomas Greiss                  G   68.0
-Dominic Toninato               F   67.0
-Brendan Guhle                  D   66.0
-Reid Boucher                   F   65.0
-Mike Fisher                    F   65.0
-Kyle Quincey                   D   65.0
-Zach Bogosian                  D   65.0
-Malcolm Subban                 G   65.0
-Scott Darling                  G   65.0
-Curtis McElhinney              G   64.0
-Tanner Glass                   F   64.0
-Juuse Saros                    G   64.0
-Matt Beleskey                  F   63.0
-Duncan Siemens                 D   62.0
-Matt Bartkowski                D   62.0
-Greg McKegg                    F   61.0
-Marcus Pettersson              D   61.0
-Paul LaDue                     D   60.0
-Mario Kempe                    F   59.0
-Alan Quine                     F   58.0
-Joshua Ho-Sang                 F   58.0
-Tucker Poolman                 D   57.0
-Vinni Lettieri                 F   57.0
-Valentin Zykov                 F   56.0
-Justin Bailey                  F   56.0
-Peter Holland                  F   56.0
-Filip Chlapik                  F   55.0
-Mirco Müller                   D   53.0
-Alex Stalock                   G   53.0
-Matthew Peca                   F   53.0
-Freddie Hamilton               F   53.0
-Evgeny Svechnikov              F   52.0
-Ethan Bear                     D   51.0
-Nikita Soshnikov               F   51.0
-Anton Forsberg                 G   50.0
-Chad Johnson                   G   50.0
-Sebastian Aho                  D   49.0
-Lawson Crouse                  F   48.0
-Daniel Sprong                  F   48.0
-Josh Leivo                     F   47.0
-Andrei Mironov                 D   47.0
-Brendan Lemieux                F   46.0
-Kevin Gravel                   D   46.0
-Shane Prince                   F   46.0
-Dillon Heatherington           D   45.0
-Samuel Blais                   F   44.0
-Michal Neuvirth                G   43.0
-Matt Read                      F   42.0
-Matthew Highmore               F   42.0
-Michael Liambas                F   42.0
-Jordan Schroeder               F   42.0
-Anders Nilsson                 G   41.0
-Roland McKeown                 D   41.0
-Kailer Yamamoto                F   40.0
-Seth Griffith                  F   40.0
-Joonas Korpisalo               G   40.0
-Ryan Sproul                    D   40.0
-David Rittich                  G   40.0
-Curtis McKenzie                F   39.0
-Gabriel Carlsson               D   38.0
-David Warsofsky                D   38.0
-Antti Niemi                    G   38.0
-Nic Petan                      F   38.0
-Matt Tennyson                  D   38.0
-Andreas Johnson                F   37.0
-Jordan Szwarz                  F   37.0
-Tomas Hyka                     F   36.0
-Brooks Laich                   F   36.0
-Danny O'Regan                  F   36.0
-Nathan Walker                  F   35.0
-Louis Domingue                 G   35.0
-Korbinian Holzer               D   35.0
-Jared Boll                     F   34.0
-Nikolai Kulemin                F   34.0
-Brad Malone                    F   34.0
-Zac Dalpe                      F   34.0
-Ryan Lomberg                   F   34.0
-Dryden Hunt                    F   34.0
-Filip Chytil                   F   34.0
-Spencer Foo                    F   33.0
-Casey DeSmith                  G   33.0
-Casey Mittelstadt              F   33.0
-Frederick Gaudreau             F   33.0
-Lucas Wallmark                 F   32.0
-Brandon Pirri                  F   31.0
-Paul Postma                    D   30.0
-Dean Kukan                     D   30.0
-Maxime Lagace                  G   30.0
-Joe Hicketts                   D   29.0
-Mark Alt                       D   29.0
-Nick Paul                      F   28.0
-Steve Mason                    G   28.0
-Kerby Rychel                   F   28.0
-Scott Wedgewood                G   28.0
-Warren Foegele                 F   27.0
-Trevor Murphy                  D   27.0
-Nick Lappin                    F   26.0
-Charlie Lindgren               G   26.0
-Christian Wolanin              D   26.0
-Paul Martin                    D   25.0
-Carl Dahlström                 D   25.0
-Mike Condon                    G   25.0
-Frederik Gauthier              F   25.0
-Austin Czarnik                 F   24.0
-Ashton Sautner                 D   24.0
-Jim O'Brien                    F   23.0
-Lias Andersson                 F   23.0
-Kenny Agostino                 F   23.0
-Ondrej Pavelec                 G   23.0
-Dalton Prout                   D   23.0
-Chris Bigras                   D   23.0
-Jonathan Quick                 G   22.0
-Tanner Kero                    F   22.0
-Rocco Grimaldi                 F   21.0
-Devan Dubnyk                   G   21.0
-Chris Kelly                    F   21.0
-Justin Holl                    D   21.0
-Alex Lyon                      G   20.0
-Alexandar Georgiev             G   20.0
-Jean-Sebastien Dea             F   20.0
-Andrei Vasilevski              G   20.0
-Harri Säteri                   G   20.0
-Dylan Sikura                   F   20.0
-Al Montoya                     G   20.0
-Kalle Kossila                  F   20.0
-John Gibson                    G   19.0
-Jason Garrison                 D   19.0
-Stefan Matteau                 F   19.0
-Michael Chaput                 F   19.0
-Owen Tippett                   F   19.0
-Oscar Dansk                    G   18.0
-Jordan Schmaltz                D   18.0
-Peter Cehlarik                 F   18.0
-Kyle Criscuolo                 F   18.0
-Tyrell Goulbourne              F   17.0
-Adam Cracknell                 F   17.0
-Taylor Fedun                   D   16.0
-Aaron Ness                     D   16.0
-Vadim Shipachev                F   16.0
-Peter Budaj                    G   15.0
-Jon Gillies                    G   15.0
-Jean-Francois Berube           G   15.0
-Patrick Eaves                  F   15.0
-Laurent Brossoit               G   15.0
-Victor Ejdsell                 F   15.0
-Andrew Mangiapane              F   15.0
-Jeff Glass                     G   15.0
-Andrew Welinski                D   15.0
-Blake Hillman                  D   15.0
-Mike Smith                     G   14.0
-Cam Ward                       G   14.0
-Matt Moulson                   F   14.0
-Jaycob Megna                   D   14.0
-Ale Hemský                    F   14.0
-Kyle Rau                       F   14.0
-Zach Redmond                   D   14.0
-David Rittich                  G   14.0
-Michael Bournival              F   13.0
-Samuel Morin                   D   13.0
-Rasmus Andersson               D   13.0
-Beau Bennett                   F   13.0
-Jim Howard                     G   13.0
-Adam Clendening                D   13.0
-Jacob Markström                G   13.0
-Steve Bernier                  F   13.0
-Adam Gaudette                  F   13.0
-Frank Corrado                  D   12.0
-Erik Burgdoerfer               D   12.0
-Jordan Greenway                F   12.0
-Travis Boyd                    F   11.0
-Henrik Haapala                 F   11.0
-Henrik Borgström               F   11.0
-Cameron Talbot                 G   11.0
-Calle Rosén                    D   10.0
-Jack Campbell                  G   10.0
-Dakota Mermis                  D   10.0
-Liam O'Brien                   F   10.0
-Michael Hutchinson             G   10.0
-Landon Ferraro                 F   10.0
-Joseph Blandisi                F   10.0
-Tuukka Rask                    G   10.0
-Christopher Gibson             G   10.0
-Eddie Läck                     G   10.0
-Tristan Jarry                  G   10.0
-Marc-Andre Fleury              G   9.0
-Sergei Bobrovsky               G   9.0
-Pekka Rinne                    G   9.0
-Juuse Saros                    G   9.0
-Hudson Fasching                F   9.0
-Chris Butler                   D   8.0
-Louis Belpedio                 D   8.0
-Carson Soucy                   D   8.0
-Keith Kinkaid                  G   8.0
-Logan Brown                    F   8.0
-Anthony Peluso                 F   8.0
-Anton Khudobin                 G   8.0
-Chase Balisy                   F   8.0
-Danick Martel                  F   7.0
-Marek Hrivik                   F   7.0
-Colby Cave                     F   7.0
-Michael Blunden                F   7.0
-James Reimer                   G   7.0
-Sami Niku                      D   7.0
-Patrick Sieloff                D   7.0
-Ben Bishop                     G   7.0
-Ben Sexton                     F   6.0
-John Quenneville               F   6.0
-Blake Pietila                  F   6.0
-Dominic Turgeon                F   6.0
-Connor Hellebuyck              G   6.0
-Jack Rodewald                  F   6.0
-Al Montoya                     G   6.0
-Mike Condon                    G   6.0
-Roberto Luongo                 G   6.0
-Andrew Crescenzi               F   6.0
-Shane Gersich                  F   6.0
-Tyler Graovac                  F   5.0
-Mike McKenna                   G   5.0
-Eeli Tolvanen                  F   5.0
-Collin Delia                   G   5.0
-Eric Comrie                    G   5.0
-Adin Hill                      G   5.0
-Linus Ullmark                  G   5.0
-Christoph Bertschy             F   5.0
-Frederik Andersen              G   5.0
-Matt Murray                    G   5.0
-Brian Elliott                  G   5.0
-Thatcher Demko                 G   5.0
-Kevin Rooney                   F   5.0
-Steven Fogarty                 F   5.0
-Daniel Brickley                D   5.0
-Reto Berra                     G   5.0
-Christian Jaros                D   4.0
-Nathan Gerbe                   F   4.0
-Rinat Valiyev                  D   4.0
-Alexander Nylander             F   4.0
-Keegan Lowe                    D   4.0
-Janne Kuokkanen                F   4.0
-Kari Lehtonen                  G   4.0
-Jaroslav Halak                 G   4.0
-Zach Trotman                   D   4.0
-Andreas Englund                D   4.0
-Jonathan Bernier               G   3.0
-Alex Broadhurst                F   3.0
-Michal Neuvirth                G   3.0
-Anton Forsberg                 G   3.0
-Mark Streit                    D   3.0
-Laurent Dauphin                F   3.0
-Troy Terry                     F   3.0
-Philipp Grubauer               G   3.0
-Darcy Kuemper                  G   3.0
-Michael Hutchinson             G   3.0
-Aaron Dell                     G   3.0
-Zach Whitecloud                D   3.0
-Steve Mason                    G   3.0
-Laurent Brossoit               G   3.0
-Curtis McElhinney              G   3.0
-Joel Hanley                    D   3.0
-Eric Robinson                  F   3.0
-Henrik Lundqvist               G   3.0
-Trevor Carrick                 D   3.0
-Jake Allen                     G   3.0
-Antti Niemi                    G   3.0
-Anders Nilsson                 G   3.0
-Will O'Neill                   D   3.0
-Anton Blidh                    F   3.0
-Justin Auger                   F   2.0
-Michael Dal Colle              F   2.0
-Collin Delia                   G   2.0
-Kyle Capobianco                D   2.0
-Nicolas Roy                    F   2.0
-Nicholas Merkley               F   2.0
-Justin Kloos                   F   2.0
-Craig Anderson                 G   2.0
-Martin Jones                   G   2.0
-Braden Holtby                  G   2.0
-Jon Gillies                    G   2.0
-Robin Lehner                   G   2.0
-Charlie Lindgren               G   2.0
-Casey DeSmith                  G   2.0
-Semyon Varlamov                G   2.0
-Scott Darling                  G   2.0
-Louis Domingue                 G   2.0
-Ondrej Pavelec                 G   2.0
-Scott Wedgewood                G   2.0
-Malcolm Subban                 G   2.0
-Carter Hutton                  G   2.0
-Vladislav Kamenev              F   2.0
-Jeff Glass                     G   2.0
-Cal O'Reilly                   F   1.0
-Curtis Valk                    F   1.0
-Nicolas Kerdiles               F   1.0
-Morgan Klimchuk                F   1.0
-Martin Marincin                D   1.0
-Dan Catenacci                  F   1.0
-Mitch Reinke                   D   1.0
-Alex Formenton                 F   1.0
-Wade Megan                     F   1.0
-Alex Lyon                      G   0.0
-Marek Langhamer                G   0.0
-Martin Necas                   F   0.0
-Ken Appleby                    G   0.0
-Marek Langhamer                G   0.0
-Dylan Ferguson                 G   0.0
-Jean-Francois Berube           G   0.0
-Calvin Pickard                 G   0.0
-Carey Price                    G   0.0
-Dylan Gambrell                 F   0.0
-Jayson Megna                   F   0.0
-Antti Raanta                   G   0.0
-Maxime Lagace                  G   0.0
-Daniel Taylor                  G   0.0
-Joonas Korpisalo               G   0.0
-Andrew Hammond                 G   0.0
-Andrew Hammond                 G   0.0
-Adam Wilcox                    G   0.0
-Eric Comrie                    G   0.0
-Ken Appleby                    G   0.0
-Thomas Greiss                  G   0.0
-Alex Stalock                   G   0.0
-Ryan Miller                    G   0.0
-Corey Crawford                 G   0.0
-Jared Coreau                   G   0.0
-Mike McKenna                   G   0.0
-Brian Lashoff                  D   0.0
-Calvin Pickard                 G   0.0
-Chad Johnson                   G   0.0
-Dylan Ferguson                 G   0.0
-Adam Wilcox                    G   0.0
-Scott Foster                   G   0.0
-Peter Budaj                    G   0.0
-Brandon Halverson              G   0.0
-Petr Mrazek                    G   0.0
-Harri Säteri                   G   0.0
-Alexandar Georgiev             G   0.0
-Thatcher Demko                 G   0.0
-Scott Foster                   G   0.0
-Cory Schneider                 G   0.0
-Jared Coreau                   G   0.0
-Daniel Taylor                  G   0.0
-Linus Ullmark                  G   0.0
-Christopher Gibson             G   0.0
-Jack Campbell                  G   0.0
-Eddie Läck                     G   0.0
-Brandon Halverson              G   0.0
-Reto Berra                     G   0.0
-Oscar Dansk                    G   0.0
-Adin Hill                      G   0.0
-Philip Holm                    D   -1.0
-Giovanni Fiore                 F   -1.0
+1    Alexander Ovechkin             F   964.0
+2    Evgeni Malkin                  F   858.0
+3    Nathan MacKinnon               F   846.0
+4    Taylor Hall                    F   844.0
+5    Tyler Seguin                   F   842.0
+6    Vincent Trocheck               F   832.0
+7    Nikita Kucherov                F   831.0
+8    Jamie Benn                     F   824.0
+9    Connor McDavid                 F   812.0
+10   Blake Wheeler                  F   810.0
+11   Evander Kane                   F   785.0
+12   Dustin Brown                   F   782.0
+13   Sidney Crosby                  F   781.0
+14   Jonathan Marchessault          F   766.0
+15   Brayden Schenn                 F   750.0
+16   Phil Kessel                    F   743.0
+17   Steven Stamkos                 F   743.0
+18   Vladimir Tarasenko             F   733.0
+19   Brent Burns                    D   725.0
+20   Patrik Laine                   F   723.0
+21   David Pastrnak                 F   720.0
+22   Victor Hedman                  D   720.0
+23   Claude Giroux                  F   719.0
+24   Tom Wilson                     F   708.0
+25   Anze Kopitar                   F   705.0
+26   Sean Couturier                 F   696.0
+27   Brad Marchand                  F   696.0
+28   John Tavares                   F   696.0
+29   Patric Hörnqvist               F   695.0
+30   Alexander Radulov              F   694.0
+31   Eric Staal                     F   690.0
+32   Jakub Vorácek                  F   682.0
+33   P.K. Subban                    D   682.0
+34   Rickard Rakell                 F   682.0
+35   Evgeny Kuznetsov               F   668.0
+36   Dustin Byfuglien               D   665.0
+37   William Karlsson               F   662.0
+38   Jason Zucker                   F   660.0
+39   Gabriel Landeskog              F   658.0
+40   Drew Doughty                   D   658.0
+41   Brendan Gallagher              F   656.0
+42   Patrick Kane                   F   649.0
+43   Joe Pavelski                   F   648.0
+44   Artemi Panarin                 F   644.0
+45   Anders Lee                     F   643.0
+46   Aleksander Barkov              F   642.0
+47   Seth Jones                     D   640.0
+48   Mikko Rantanen                 F   630.0
+49   Filip Forsberg                 F   629.0
+50   Johnny Gaudreau                F   627.0
+51   Patrice Bergeron               F   625.0
+52   John Carlson                   D   622.0
+53   Nazem Kadri                    F   622.0
+54   Dougie Hamilton                D   616.0
+55   Roman Josi                     D   615.0
+56   Dylan Larkin                   F   608.0
+57   Milan Lucic                    F   607.0
+58   Viktor Arvidsson               F   605.0
+59   James van Riemsdyk             F   603.0
+60   Shayne Gostisbehere            D   600.0
+61   Brayden Point                  F   598.0
+62   Jack Eichel                    F   597.0
+63   Rasmus Ristolainen             D   594.0
+64   Kristopher Letang              D   592.0
+65   Nikolaj Ehlers                 F   588.0
+66   Sebastian Aho                  F   586.0
+67   Mathew Barzal                  F   583.0
+68   Jonathan Huberdeau             F   582.0
+69   Mathew Dumba                   D   579.0
+70   Sean Monahan                   F   578.0
+71   Wayne Simmonds                 F   577.0
+72   Torey Krug                     D   574.0
+73   Colin Miller                   D   573.0
+74   Nick Bjugstad                  F   572.0
+75   Pierre-Luc Dubois              F   571.0
+76   J.T. Miller                    F   569.0
+77   Jordan Staal                   F   569.0
+78   Nicklas Bäckström              F   568.0
+79   Oliver Ekman-Larsson           D   568.0
+80   David Perron                   F   568.0
+81   Craig Smith                    F   568.0
+82   Tyler Toffoli                  F   566.0
+83   Mike Hoffman                   F   564.0
+84   Boone Jenner                   F   564.0
+85   Matthew Tkachuk                F   561.0
+86   Jake Guentzel                  F   560.0
+87   Mikael Granlund                F   559.0
+88   Mitchell Marner                F   559.0
+89   Ivan Provorov                  D   559.0
+90   Nikita Zadorov                 D   557.0
+91   Logan Couture                  F   557.0
+92   Yanni Gourde                   F   557.0
+93   John Klingberg                 D   553.0
+94   Anthony Mantha                 F   552.0
+95   Erik Haula                     F   550.0
+96   Patrick Maroon                 F   550.0
+97   Jake Muzzin                    D   547.0
+98   Leon Draisaitl                 F   545.0
+99   Travis Konecny                 F   544.0
+100  Jeff Petry                     D   543.0
+101  Mika Zibanejad                 F   541.0
+102  Kyle Palmieri                  F   540.0
+103  Mark Giordano                  D   539.0
+104  Ryan O'Reilly                  F   538.0
+105  Ryan Johansen                  F   537.0
+106  Justin Williams                F   537.0
+107  Jeff Skinner                   F   536.0
+108  Timo Meier                     F   534.0
+109  Auston Matthews                F   533.0
+110  Darnell Nurse                  D   531.0
+111  Nick Ritchie                   F   529.0
+112  Max Pacioretty                 F   528.0
+113  Patrick Marleau                F   528.0
+114  Alexander Edler                D   527.0
+115  Blake Coleman                  F   527.0
+116  Derick Brassard                F   525.0
+117  Clayton Keller                 F   524.0
+118  Josh Manson                    D   523.0
+119  Alex Pietrangelo               D   523.0
+120  Evgeny Dadonov                 F   522.0
+121  Michael Ferland                F   521.0
+122  Reilly Smith                   F   519.0
+123  Derek Stepan                   F   518.0
+124  Mikael Backlund                F   517.0
+125  Tomas Hertl                    F   517.0
+126  Teuvo Teräväinen               F   517.0
+127  Jordan Eberle                  F   516.0
+128  Justin Faulk                   D   514.0
+129  Aaron Ekblad                   D   514.0
+130  Jonathan Toews                 F   513.0
+131  Cam Atkinson                   F   513.0
+132  Daniel Sedin                   F   513.0
+133  Erik Karlsson                  D   510.0
+134  Nick Foligno                   F   509.0
+135  Matt Duchene                   F   509.0
+136  Vladislav Namestnikov          F   509.0
+137  Ryan Getzlaf                   F   508.0
+138  Jaden Schwartz                 F   504.0
+139  Austin Watson                  F   504.0
+140  Kyle Connor                    F   503.0
+141  T.J. Oshie                     F   503.0
+142  Tanner Pearson                 F   502.0
+143  Justin Abdelkader              F   500.0
+144  Michael Del Zotto              D   500.0
+145  Corey Perry                    F   499.0
+146  William Nylander               F   498.0
+147  Mats Zuccarello                F   497.0
+148  Brock Boeser                   F   496.0
+149  Alex Killorn                   F   496.0
+150  David Backes                   F   494.0
+151  Kevin Fiala                    F   491.0
+152  Tyson Barrie                   D   490.0
+153  Sam Reinhart                   F   490.0
+154  Tyler Johnson                  F   487.0
+155  Adam Henrique                  F   486.0
+156  Mark Scheifele                 F   486.0
+157  Thomas Vanek                   F   485.0
+158  Mathieu Perreault              F   485.0
+159  Nico Hischier                  F   484.0
+160  Josh Anderson                  F   484.0
+161  Zach Hyman                     F   480.0
+162  Alex Galchenyuk                F   480.0
+163  Gustav Nyquist                 F   478.0
+164  Joshua Bailey                  F   477.0
+165  Ryan Suter                     D   476.0
+166  Henrik Zetterberg              F   474.0
+167  Colton Parayko                 D   473.0
+168  Mikko Koivu                    F   472.0
+169  James Neal                     F   471.0
+170  Alex DeBrincat                 F   471.0
+171  Keith Yandle                   D   471.0
+172  Alex Tuch                      F   469.0
+173  Miles Wood                     F   467.0
+174  Brandon Montour                D   464.0
+175  Richard Panik                  F   463.0
+176  Blake Comeau                   F   461.0
+177  Charles Hudon                  F   460.0
+178  Mikhail Sergachyov             D   460.0
+179  Zdeno Chara                    D   460.0
+180  Mark Stone                     F   460.0
+181  Rick Nash                      F   459.0
+182  Zachary Werenski               D   458.0
+183  Morgan Rielly                  D   458.0
+184  Elias Lindholm                 F   452.0
+185  Erik Johnson                   D   450.0
+186  Chris Kreider                  F   449.0
+187  Andrew Cogliano                F   449.0
+188  Radko Gudas                    D   448.0
+189  Brayden McNabb                 D   448.0
+190  Cal Clutterbuck                F   446.0
+191  Sam Bennett                    F   446.0
+192  Dion Phaneuf                   D   446.0
+193  Olli Määttä                    D   445.0
+194  Kyle Okposo                    F   445.0
+195  Ryan Pulock                    D   445.0
+196  Chris Wagner                   F   443.0
+197  Nick Deslauriers               D   442.0
+198  Leo Komarov                    F   442.0
+199  Ryan Nugent-Hopkins            F   442.0
+200  Kevin Hayes                    F   439.0
+201  Stephen Johns                  D   439.0
+202  Jakob Silfverberg              F   439.0
+203  Kyle Turris                    F   438.0
+204  Ryan Hartman                   F   438.0
+205  Brock McGinn                   F   437.0
+206  Vladimir Sobotka               F   437.0
+207  Jonathan Drouin                F   437.0
+208  Paul Stastny                   F   437.0
+209  Darren Helm                    F   437.0
+210  Tyler Myers                    D   436.0
+211  Max Domi                       F   436.0
+212  Carl Hagelin                   F   436.0
+213  Michael Grabner                F   435.0
+214  Jake DeBrusk                   F   434.0
+215  Mattias Ekholm                 D   432.0
+216  Tomas Tatar                    F   432.0
+217  Alexander Steen                F   431.0
+218  Marcus Foligno                 F   431.0
+219  Lars Eller                     F   430.0
+220  Brandon Saad                   F   429.0
+221  Adrian Kempe                   F   429.0
+222  Paul Byron                     F   428.0
+223  Jean-Gabriel Pageau            F   424.0
+224  Adam Larsson                   D   424.0
+225  Colton Sissons                 F   424.0
+226  Jake Gardiner                  D   421.0
+227  Radek Faksa                    F   417.0
+228  Dmitri Jaskin                  F   416.0
+229  Hampus Lindholm                D   415.0
+230  Brenden Dillon                 D   414.0
+231  Jamie Oleksiak                 D   414.0
+232  Bryan Rust                     F   414.0
+233  Micheal Haley                  F   413.0
+234  Tyler Bozak                    F   412.0
+235  Danton Heinen                  F   412.0
+236  Charlie McAvoy                 D   411.0
+237  Christian Fischer              F   411.0
+238  Bo Horvat                      F   411.0
+239  Dmitry Orlov                   D   410.0
+240  Carl Söderberg                 F   408.0
+241  Tyler Pitlick                  F   408.0
+242  Christian Dvorak               F   405.0
+243  Ryan Reaves                    F   405.0
+244  Oliver Bjorkstrand             F   404.0
+245  Ryan Dzingel                   F   403.0
+246  John Moore                     D   403.0
+247  Jake Virtanen                  F   403.0
+248  Pavel Buchnevich               F   403.0
+249  Justin Braun                   D   402.0
+250  Stefan Noesen                  F   402.0
+251  Nick Leddy                     D   402.0
+252  Sami Vatanen                   D   401.0
+253  Matt Niskanen                  D   401.0
+254  Anthony Beauvillier            F   400.0
+255  Trevor Lewis                   F   398.0
+256  Matthew Benning                D   398.0
+257  Bryan Little                   F   398.0
+258  Nino Niederreiter              F   397.0
+259  Robert Hägg                    D   397.0
+260  Josh Morrissey                 D   397.0
+261  Brian Boyle                    F   395.0
+262  Tim Schaller                   F   395.0
+263  Kevin Labanc                   F   395.0
+264  Riley Nash                     F   394.0
+265  Michael Matheson               D   394.0
+266  Brett Ritchie                  F   394.0
+267  Brock Nelson                   F   392.0
+268  Brady Skjei                    D   390.0
+269  Mark Borowiecki                D   389.0
+270  Jamie McGinn                   F   389.0
+271  Brendan Perlini                F   386.0
+272  Alex Goligoski                 D   385.0
+273  Noah Hanifin                   D   383.0
+274  Esa Lindell                    D   383.0
+275  Patrik Berglund                F   381.0
+276  Nick Schmaltz                  F   380.0
+277  David Savard                   D   380.0
+278  Antoine Roussel                F   377.0
+279  Ondrej Kase                    F   376.0
+280  Chris Kunitz                   F   375.0
+281  Mike Green                     D   375.0
+282  David Krejcí                   F   374.0
+283  Sam Gagner                     F   374.0
+284  Zack Kassian                   F   374.0
+285  Tommy Wingels                  F   374.0
+286  Brandon Tanev                  F   373.0
+287  Drake Caggiula                 F   370.0
+288  Cody Ceci                      D   370.0
+289  Sean Kuraly                    F   369.0
+290  Kyle Brodziak                  F   368.0
+291  Ryan Strome                    F   366.0
+292  Kevan Miller                   D   366.0
+293  Joel Armia                     F   364.0
+294  Damon Severson                 D   364.0
+295  Brent Seabrook                 D   364.0
+296  Alec Martinez                  D   364.0
+297  Joel Edmundson                 D   361.0
+298  Garnet Hathaway                F   361.0
+299  Brooks Orpik                   D   361.0
+300  Charlie Coyle                  F   361.0
+301  Jacob Trouba                   D   360.0
+302  Derek Ryan                     F   360.0
+303  Marc-Edouard Vlasic            D   359.0
+304  Brandon Manning                D   357.0
+305  Ondrej Palat                   F   357.0
+306  Colton Sceviour                F   356.0
+307  Scott Hartnell                 F   355.0
+308  Jimmy Vesey                    F   353.0
+309  Johnny Boychuk                 D   353.0
+310  Jesper Fast                    F   353.0
+311  Ryan Spooner                   F   352.0
+312  Frans Nielsen                  F   352.0
+313  Greg Pateryn                   D   352.0
+314  Devante Smith-Pelly            F   350.0
+315  Duncan Keith                   D   349.0
+316  Victor Rask                    F   349.0
+317  Jason Pominville               F   348.0
+318  Scott Laughton                 F   347.0
+319  Artturi Lehkonen               F   346.0
+320  Oscar Klefbom                  D   346.0
+321  Nick Cousins                   F   345.0
+322  Alexander Kerfoot              F   345.0
+323  Anton Strålman                 D   344.0
+324  Derek Forbort                  D   343.0
+325  Deryk Engelland                D   343.0
+326  Tomá Plekanec                 F   343.0
+327  Alex Petrovic                  D   343.0
+328  Bobby Ryan                     F   342.0
+329  Joel Eriksson Ek               F   342.0
+330  Andrew Ladd                    F   342.0
+331  Nolan Patrick                  F   342.0
+332  Daniel Girardi                 D   342.0
+333  Ian Cole                       D   341.0
+334  Jared McCann                   F   340.0
+335  Troy Brouwer                   F   339.0
+336  Marco Scandella                D   338.0
+337  Mikkel Bødker                  F   337.0
+338  Ryan Callahan                  F   337.0
+339  Andreas Athanasiou             F   336.0
+340  Jared Spurgeon                 D   335.0
+341  Jujhar Khaira                  F   334.0
+342  Kevin Connauton                D   332.0
+343  Joonas Donskoi                 F   331.0
+344  Andrew Copp                    F   331.0
+345  Brandon Dubinsky               F   329.0
+346  Chris Tierney                  F   328.0
+347  Luke Schenn                    D   326.0
+348  Calle Järnkrok                 F   326.0
+349  Connor Murphy                  D   324.0
+350  Jaccob Slavin                  D   324.0
+351  Conor Sheary                   F   323.0
+352  Michael Raffl                  F   323.0
+353  Mattias Janmark-Nylén          F   322.0
+354  Devin Shore                    F   322.0
+355  Zemgus Girgensons              F   322.0
+356  Jordan Martinook               F   321.0
+357  Nate Schmidt                   D   321.0
+358  Michael Frolík                 F   321.0
+359  Artem Anisimov                 F   320.0
+360  Alexei Emelin                  D   318.0
+361  Luke Glendening                F   316.0
+362  Andrew Shaw                    F   313.0
+363  Ryan McDonagh                  D   312.0
+364  Zack Smith                     F   312.0
+365  Zac Rinaldo                    F   312.0
+366  Pavel Zacha                    F   311.0
+367  Shea Theodore                  D   311.0
+368  Adam Pelech                    D   311.0
+369  Scottie Upshall                F   310.0
+370  Cam Fowler                     D   310.0
+371  Tobias Rieder                  F   309.0
+372  Jesse Puljujärvi               F   308.0
+373  Joe Thornton                   F   308.0
+374  Will Butcher                   D   308.0
+375  Jesper Bratt                   F   307.0
+376  Jonathan Ericsson              D   305.0
+377  Alex Iafallo                   F   303.0
+378  Mark Jankowski                 F   302.0
+379  Christian Folin                D   302.0
+380  Ryan Ellis                     D   300.0
+381  Niklas Kronwall                D   299.0
+382  Riley Sheahan                  F   298.0
+383  Robert Bortuzzo                D   298.0
+384  Karl Alzner                    D   297.0
+385  Cody Eakin                     F   296.0
+386  Adam Lowry                     F   296.0
+387  Jakub Vrana                    F   295.0
+388  Travis Hamonic                 D   295.0
+389  Mike Cammalleri                F   295.0
+390  Francois Beauchemin            D   295.0
+391  Brian Dumoulin                 D   294.0
+392  Kyle Clifford                  F   294.0
+393  Thomas Hickey                  D   292.0
+394  Justin Schultz                 D   292.0
+395  Martin Frk                     F   291.0
+396  Vince Dunn                     D   290.0
+397  Nick Holden                    D   290.0
+398  Brett Connolly                 F   288.0
+399  Travis Zajac                   F   288.0
+400  Phillip Danault                F   287.0
+401  Matt Calvert                   F   286.0
+402  Matthew Martin                 F   285.0
+403  Derek MacKenzie                F   284.0
+404  J.T. Compher                   F   284.0
+405  Henrik Sedin                   F   283.0
+406  Magnus Pääjärvi                F   283.0
+407  Brandon Sutter                 F   283.0
+408  Johan Larsson                  F   283.0
+409  Ron Hainsey                    D   281.0
+410  Cody McLeod                    F   281.0
+411  Jordie Benn                    D   281.0
+412  Connor Brown                   F   281.0
+413  Jason Chimera                  F   281.0
+414  Patrick Sharp                  F   280.0
+415  Kevin Bieksa                   D   280.0
+416  Casey Cizikas                  F   279.0
+417  Jason Spezza                   F   276.0
+418  Jason Demers                   D   276.0
+419  Noel Acciari                   F   275.0
+420  Zach Parise                    F   275.0
+421  Logan Shaw                     F   274.0
+422  Mark Pysyk                     D   274.0
+423  Kevin Shattenkirk              D   273.0
+424  Alexander Wennberg             F   272.0
+425  Alex Biega                     D   272.0
+426  John Hayden                    F   272.0
+427  Troy Stecher                   D   271.0
+428  Andre Burakovsky               F   271.0
+429  Tyler Ennis                    F   271.0
+430  Derrick Pouliot                D   271.0
+431  Tyson Jost                     F   270.0
+432  Mark Letestu                   F   270.0
+433  Scott Wilson                   F   270.0
+434  Alexandre Burrows              F   270.0
+435  T.J. Brodie                    D   270.0
+436  Fredrik Claesson               D   269.0
+437  Roman Polák                    D   269.0
+438  Matt Hendricks                 F   266.0
+439  Kris Russell                   D   263.0
+440  Lance Bouma                    F   262.0
+441  Sven Bärtschi                  F   261.0
+442  Benoit Pouliot                 F   261.0
+443  Jordan Nolan                   F   261.0
+444  Tyler Bertuzzi                 F   260.0
+445  Patrik Nemeth                  D   260.0
+446  Michael Stone                  D   259.0
+447  Dan Hamhuis                    D   259.0
+448  Nail Yakupov                   F   258.0
+449  Ryan Kesler                    F   257.0
+450  Nikita Zaitsev                 D   257.0
+451  Nate Thompson                  F   256.0
+452  Cedric Paquette                F   255.0
+453  Anthony Duclair                F   255.0
+454  Ben Chiarot                    D   255.0
+455  Joe Morrow                     D   254.0
+456  Jakob Chychrun                 D   254.0
+457  Melker Karlsson                F   254.0
+458  Jacob de la Rose               F   252.0
+459  Curtis Lazar                   F   252.0
+460  Remi Elie                      F   250.0
+461  Brian Gibbons                  F   250.0
+462  Brad Richardson                F   249.0
+463  Thomas Chabot                  D   249.0
+464  Sven Andrighetto               F   248.0
+465  Valtteri Filppula              F   247.0
+466  Jonas Brodin                   D   247.0
+467  Jack Johnson                   D   246.0
+468  Derek Grant                    F   245.0
+469  Nick Jensen                    D   244.0
+470  Andrei Vasilevski              G   244.0
+471  Denis Malgin                   F   243.0
+472  Tom Pyatt                      F   242.0
+473  Drew Stafford                  F   242.0
+474  Matthew Nieto                  F   242.0
+475  Dylan Demelo                   D   241.0
+476  Ryan Carpenter                 F   241.0
+477  Braydon Coburn                 D   240.0
+478  Brandon Carlo                  D   239.0
+479  Jay Beagle                     F   238.0
+480  Andreas Borgman                D   238.0
+481  Connor Hellebuyck              G   238.0
+482  Jake Dotchin                   D   238.0
+483  Markus Nutivaara               D   237.0
+484  Andrew MacDonald               D   236.0
+485  Trevor Daley                   D   235.0
+486  Tom Kühnhackl                  F   235.0
+487  Pekka Rinne                    G   234.0
+488  Andy Greene                    D   234.0
+489  Jeff Carter                    F   233.0
+490  Antoine Vermette               F   231.0
+491  Mackenzie Weegar               D   231.0
+492  Samuel Girard                  D   230.0
+493  Matt Cullen                    F   229.0
+494  Vince Hinostroza               F   228.0
+495  Erik Gudbranson                D   226.0
+496  Tomas Nosek                    F   226.0
+497  Steve Santini                  D   225.0
+498  Matt Grzelcyk                  D   225.0
+499  Daniel Winnik                  F   224.0
+500  Alex Chiasson                  F   224.0
+501  Nick Bonino                    F   224.0
+502  Joakim Nordström               F   224.0
+503  Brendan Smith                  D   223.0
+504  Brett Pesce                    D   222.0
+505  Jake McCabe                    D   222.0
+506  Trevor Van Riemsdyk            D   221.0
+507  Shea Weber                     D   220.0
+508  Phil Di Giuseppe               F   220.0
+509  Danny DeKeyser                 D   219.0
+510  Miikka Salomäki                F   219.0
+511  Jordan Oesterle                D   219.0
+512  Ben Lovejoy                    D   219.0
+513  Gabriel Bourque                F   218.0
+514  Matthew Stajan                 F   217.0
+515  Michal Kempny                  D   215.0
+516  Evan Rodrigues                 F   215.0
+517  Marian Gaborik                 F   215.0
+518  Brendan Leipsic                F   215.0
+519  Scott Mayfield                 D   214.0
+520  Pierre-Edouard Bellemare       F   214.0
+521  Chris Thorburn                 F   213.0
+522  Barclay Goodrow                F   213.0
+523  Nick Shore                     F   213.0
+524  Chris Stewart                  F   210.0
+525  Loui Eriksson                  F   209.0
+526  Jordan Weal                    F   208.0
+527  Brandon Davidson               D   208.0
+528  Oscar Lindberg                 F   207.0
+529  Sonny Milano                   F   207.0
+530  Haydn Fleury                   D   207.0
+531  Connor Brickley                F   205.0
+532  Frederik Andersen              G   205.0
+533  Andy Andreoff                  F   205.0
+534  Frank Vatrano                  F   204.0
+535  Jan Rutta                      D   201.0
+536  Markus Granlund                F   200.0
+537  Sergei Bobrovsky               G   200.0
+538  Marc Staal                     D   199.0
+539  Mike Reilly                    D   197.0
+540  Adam McQuaid                   D   196.0
+541  Colin Wilson                   F   194.0
+542  Josh Archibald                 F   194.0
+543  William Carrier                F   192.0
+544  Devan Dubnyk                   G   190.0
+545  Tyler Motte                    F   190.0
+546  Dmitri Kulikov                 D   186.0
+547  Anton Slepyshev                F   186.0
+548  Paul Carey                     F   186.0
+549  Martin Hanzal                  F   185.0
+550  Brad Hunt                      D   184.0
+551  Connor Carrick                 D   183.0
+552  Derek Dorsett                  F   183.0
+553  David Desharnais               F   183.0
+554  Jussi Jokinen                  F   181.0
+555  Ben Hutton                     D   180.0
+556  Jonathan Quick                 G   180.0
+557  Torrey Mitchell                F   179.0
+558  Tuukka Rask                    G   179.0
+559  Matt Irwin                     D   178.0
+560  Justin Falk                    D   178.0
+561  Joakim Ryan                    D   178.0
+562  Pontus Åberg                   F   177.0
+563  Lukas Sedlak                   F   177.0
+564  Erik Gustafsson                D   174.0
+565  Johnny Oduya                   D   174.0
+566  Ivan Barbashev                 F   173.0
+567  Nic Dowd                       F   172.0
+568  Radim Vrbata                   F   172.0
+569  Carl Gunnarsson                D   172.0
+570  Gustav Forsling                D   170.0
+571  Brett Kulak                    D   170.0
+572  Braden Holtby                  G   170.0
+573  Byron Froese                   F   168.0
+574  Neal Pionk                     D   168.0
+575  John Gibson                    G   167.0
+576  Dale Weise                     F   167.0
+577  Travis Dermott                 D   167.0
+578  Mark Barberio                  D   166.0
+579  Kurtis MacDermid               D   163.0
+580  Martin Jones                   G   162.0
+581  Matt Hunwick                   D   161.0
+582  Chad Ruhwedel                  D   161.0
+583  Nathan Beaulieu                D   160.0
+584  Jannik Hansen                  F   160.0
+585  Cory Conacher                  F   159.0
+586  Kasperi Kapanen                F   159.0
+587  Daniel Carr                    F   158.0
+588  Cameron Talbot                 G   158.0
+589  Marc-Andre Fleury              G   157.0
+590  Darren Archibald               F   157.0
+591  J.T. Brown                     F   157.0
+592  Marc Methot                    D   155.0
+593  Dominic Moore                  F   155.0
+594  Luke Witkowski                 D   154.0
+595  Christian Djoos                D   153.0
+596  Madison Bowey                  D   152.0
+597  Anton Lindholm                 D   151.0
+598  Ross Johnston                  F   151.0
+599  Nate Prosser                   D   150.0
+600  Chandler Stephenson            F   149.0
+601  Klas Dahlbeck                  D   149.0
+602  Travis Sanheim                 D   147.0
+603  Luca Sbisa                     D   146.0
+604  Calvin de Haan                 D   146.0
+605  Ben Bishop                     G   145.0
+606  Brendan Gaunce                 F   143.0
+607  Joel Ward                      F   143.0
+608  Iiro Pakarinen                 F   142.0
+609  Max McCormick                  F   142.0
+610  Gemel Smith                    F   142.0
+611  Matt Murray                    G   138.0
+612  Jake Allen                     G   138.0
+613  Jori Lehterä                   F   137.0
+614  Henrik Lundqvist               G   136.0
+615  Dominik Simon                  F   135.0
+616  Slater Koekkoek                D   135.0
+617  Mike Smith                     G   134.0
+618  Josh Jooris                    F   134.0
+619  Keith Kinkaid                  G   133.0
+620  Yohann Auvitu                  D   132.0
+621  Ian McCoshen                   D   132.0
+622  Jimmy Hayes                    F   130.0
+623  Tage Thompson                  F   129.0
+624  Anthony Deangelo               D   128.0
+625  Oscar Fantenberg               D   128.0
+626  Marcus Krüger                  F   128.0
+627  Jonny Brodzinski               F   126.0
+628  Semyon Varlamov                G   126.0
+629  Yannick Weber                  D   124.0
+630  Tomas Jurco                    F   123.0
+631  James Reimer                   G   122.0
+632  Craig Anderson                 G   121.0
+633  Jacob Markström                G   121.0
+634  Cam Ward                       G   121.0
+635  Jay Bouwmeester                D   120.0
+636  Tim Heed                       D   120.0
+637  Jack Roslovic                  F   119.0
+638  David Kämpf                    F   119.0
+639  Dennis Seidenberg              D   119.0
+640  Tanner Fritz                   F   118.0
+641  Brian Elliott                  G   118.0
+642  Xavier Ouellet                 D   117.0
+643  Eric Gryba                     D   117.0
+644  Nikolai Goldobin               F   116.0
+645  Gabriel Dumont                 F   115.0
+646  Ryan Murray                    D   115.0
+647  Antti Raanta                   G   114.0
+648  John Gilmour                   D   114.0
+649  Oscar Sundqvist                F   114.0
+650  Jim Howard                     G   113.0
+651  Lee Stempniak                  F   112.0
+652  Marcus Johansson               F   111.0
+653  Michael McCarron               F   110.0
+654  Maxim Mamin                    F   108.0
+655  Jon Merrill                    D   107.0
+656  Anders Bjork                   F   107.0
+657  Zach Aston-Reese               F   107.0
+658  Noah Juulsen                   D   107.0
+659  Cody Franson                   D   107.0
+660  Jakub Jerabek                  D   107.0
+661  Christopher Tanev              D   106.0
+662  Carter Rowney                  F   106.0
+663  Casey Nelson                   D   105.0
+664  Anthony Bitetto                D   104.0
+665  Anthony Cirelli                F   104.0
+666  David Schlemko                 D   103.0
+667  Josh Gorges                    D   103.0
+668  Jaroslav Halak                 G   103.0
+669  Oskar Lindblom                 F   101.0
+670  Jonathan Bernier               G   101.0
+671  Nicholas Baptiste              F   101.0
+672  Cristoval Nieves               F   100.0
+673  Ben Harpur                     D   100.0
+674  Roberto Luongo                 G   99.0 
+675  Tobias Enström                 D   99.0 
+676  Chris DiDomenico               F   98.0 
+677  Adam Erne                      F   96.0 
+678  Viktor Antipin                 D   95.0 
+679  Kris Versteeg                  F   95.0 
+680  Niklas Hjalmarsson             D   94.0 
+681  Carter Hutton                  G   94.0 
+682  Steven Kampfer                 D   93.0 
+683  Brian Gionta                   F   93.0 
+684  Nikita Scherbak                F   93.0 
+685  Luke Kunin                     F   93.0 
+686  Scott Harrington               D   93.0 
+687  Andrej Sustr                   D   92.0 
+688  Markus Hännikäinen             F   92.0 
+689  Julius Honka                   D   91.0 
+690  Mike Amadio                    F   90.0 
+691  Cory Schneider                 G   88.0 
+692  Dylan Strome                   F   86.0 
+693  Chris Wideman                  D   86.0 
+694  David Booth                    F   86.0 
+695  Corey Crawford                 G   86.0 
+696  Ty Rattie                      F   85.0 
+697  Marcus Sörensen                F   84.0 
+698  Philipp Grubauer               G   84.0 
+699  Gustav Olofsson                D   83.0 
+700  Anton Khudobin                 G   83.0 
+701  A.J. Greer                     F   83.0 
+702  Kevin Roy                      F   83.0 
+703  Carey Price                    G   83.0 
+704  Petr Mrazek                    G   82.0 
+705  Jason Dickinson                F   82.0 
+706  Victor Mete                    D   82.0 
+707  Andrej Sekera                  D   82.0 
+708  Aaron Dell                     G   81.0 
+709  Nick Seeler                    D   80.0 
+710  Robin Lehner                   G   79.0 
+711  Jacob Josefson                 F   79.0 
+712  Ryan Donato                    F   79.0 
+713  Kari Lehtonen                  G   78.0 
+714  Eric Fehr                      F   77.0 
+715  Dennis Rasmussen               F   76.0 
+716  Tristan Jarry                  G   76.0 
+717  Ryan Murphy                    D   75.0 
+718  Brett Lernout                  D   75.0 
+719  Taylor Leier                   F   74.0 
+720  Jaromír Jágr                   F   74.0 
+721  Darcy Kuemper                  G   72.0 
+722  Ryan Miller                    G   72.0 
+723  Alexander Burmistrov           F   71.0 
+724  Rob O'Gara                     D   71.0 
+725  Zack Mitchell                  F   70.0 
+726  Andreas Martinsen              F   70.0 
+727  Colin White                    F   69.0 
+728  Marko Dano                     F   69.0 
+729  Shawn Matthias                 F   68.0 
+730  Taylor Chorney                 D   68.0 
+731  Thomas Greiss                  G   68.0 
+732  Dominic Toninato               F   67.0 
+733  Brendan Guhle                  D   66.0 
+734  Reid Boucher                   F   65.0 
+735  Mike Fisher                    F   65.0 
+736  Kyle Quincey                   D   65.0 
+737  Zach Bogosian                  D   65.0 
+738  Malcolm Subban                 G   65.0 
+739  Scott Darling                  G   65.0 
+740  Curtis McElhinney              G   64.0 
+741  Tanner Glass                   F   64.0 
+742  Juuse Saros                    G   64.0 
+743  Matt Beleskey                  F   63.0 
+744  Duncan Siemens                 D   62.0 
+745  Matt Bartkowski                D   62.0 
+746  Greg McKegg                    F   61.0 
+747  Marcus Pettersson              D   61.0 
+748  Paul LaDue                     D   60.0 
+749  Mario Kempe                    F   59.0 
+750  Alan Quine                     F   58.0 
+751  Joshua Ho-Sang                 F   58.0 
+752  Tucker Poolman                 D   57.0 
+753  Vinni Lettieri                 F   57.0 
+754  Valentin Zykov                 F   56.0 
+755  Justin Bailey                  F   56.0 
+756  Peter Holland                  F   56.0 
+757  Filip Chlapik                  F   55.0 
+758  Mirco Müller                   D   53.0 
+759  Alex Stalock                   G   53.0 
+760  Matthew Peca                   F   53.0 
+761  Freddie Hamilton               F   53.0 
+762  Evgeny Svechnikov              F   52.0 
+763  Ethan Bear                     D   51.0 
+764  Nikita Soshnikov               F   51.0 
+765  Anton Forsberg                 G   50.0 
+766  Chad Johnson                   G   50.0 
+767  Sebastian Aho                  D   49.0 
+768  Lawson Crouse                  F   48.0 
+769  Daniel Sprong                  F   48.0 
+770  Josh Leivo                     F   47.0 
+771  Andrei Mironov                 D   47.0 
+772  Brendan Lemieux                F   46.0 
+773  Kevin Gravel                   D   46.0 
+774  Shane Prince                   F   46.0 
+775  Dillon Heatherington           D   45.0 
+776  Samuel Blais                   F   44.0 
+777  Michal Neuvirth                G   43.0 
+778  Matt Read                      F   42.0 
+779  Matthew Highmore               F   42.0 
+780  Michael Liambas                F   42.0 
+781  Jordan Schroeder               F   42.0 
+782  Anders Nilsson                 G   41.0 
+783  Roland McKeown                 D   41.0 
+784  Kailer Yamamoto                F   40.0 
+785  Seth Griffith                  F   40.0 
+786  Joonas Korpisalo               G   40.0 
+787  Ryan Sproul                    D   40.0 
+788  David Rittich                  G   40.0 
+789  Curtis McKenzie                F   39.0 
+790  Gabriel Carlsson               D   38.0 
+791  David Warsofsky                D   38.0 
+792  Antti Niemi                    G   38.0 
+793  Nic Petan                      F   38.0 
+794  Matt Tennyson                  D   38.0 
+795  Andreas Johnson                F   37.0 
+796  Jordan Szwarz                  F   37.0 
+797  Tomas Hyka                     F   36.0 
+798  Brooks Laich                   F   36.0 
+799  Danny O'Regan                  F   36.0 
+800  Nathan Walker                  F   35.0 
+801  Louis Domingue                 G   35.0 
+802  Korbinian Holzer               D   35.0 
+803  Jared Boll                     F   34.0 
+804  Nikolai Kulemin                F   34.0 
+805  Brad Malone                    F   34.0 
+806  Zac Dalpe                      F   34.0 
+807  Ryan Lomberg                   F   34.0 
+808  Dryden Hunt                    F   34.0 
+809  Filip Chytil                   F   34.0 
+810  Spencer Foo                    F   33.0 
+811  Casey DeSmith                  G   33.0 
+812  Casey Mittelstadt              F   33.0 
+813  Frederick Gaudreau             F   33.0 
+814  Lucas Wallmark                 F   32.0 
+815  Brandon Pirri                  F   31.0 
+816  Paul Postma                    D   30.0 
+817  Dean Kukan                     D   30.0 
+818  Maxime Lagace                  G   30.0 
+819  Joe Hicketts                   D   29.0 
+820  Mark Alt                       D   29.0 
+821  Nick Paul                      F   28.0 
+822  Steve Mason                    G   28.0 
+823  Kerby Rychel                   F   28.0 
+824  Scott Wedgewood                G   28.0 
+825  Warren Foegele                 F   27.0 
+826  Trevor Murphy                  D   27.0 
+827  Nick Lappin                    F   26.0 
+828  Charlie Lindgren               G   26.0 
+829  Christian Wolanin              D   26.0 
+830  Paul Martin                    D   25.0 
+831  Carl Dahlström                 D   25.0 
+832  Mike Condon                    G   25.0 
+833  Frederik Gauthier              F   25.0 
+834  Austin Czarnik                 F   24.0 
+835  Ashton Sautner                 D   24.0 
+836  Jim O'Brien                    F   23.0 
+837  Lias Andersson                 F   23.0 
+838  Kenny Agostino                 F   23.0 
+839  Ondrej Pavelec                 G   23.0 
+840  Dalton Prout                   D   23.0 
+841  Chris Bigras                   D   23.0 
+842  Jonathan Quick                 G   22.0 
+843  Tanner Kero                    F   22.0 
+844  Rocco Grimaldi                 F   21.0 
+845  Devan Dubnyk                   G   21.0 
+846  Chris Kelly                    F   21.0 
+847  Justin Holl                    D   21.0 
+848  Alex Lyon                      G   20.0 
+849  Alexandar Georgiev             G   20.0 
+850  Jean-Sebastien Dea             F   20.0 
+851  Andrei Vasilevski              G   20.0 
+852  Harri Säteri                   G   20.0 
+853  Dylan Sikura                   F   20.0 
+854  Al Montoya                     G   20.0 
+855  Kalle Kossila                  F   20.0 
+856  John Gibson                    G   19.0 
+857  Jason Garrison                 D   19.0 
+858  Stefan Matteau                 F   19.0 
+859  Michael Chaput                 F   19.0 
+860  Owen Tippett                   F   19.0 
+861  Oscar Dansk                    G   18.0 
+862  Jordan Schmaltz                D   18.0 
+863  Peter Cehlarik                 F   18.0 
+864  Kyle Criscuolo                 F   18.0 
+865  Tyrell Goulbourne              F   17.0 
+866  Adam Cracknell                 F   17.0 
+867  Taylor Fedun                   D   16.0 
+868  Aaron Ness                     D   16.0 
+869  Vadim Shipachev                F   16.0 
+870  Peter Budaj                    G   15.0 
+871  Jon Gillies                    G   15.0 
+872  Jean-Francois Berube           G   15.0 
+873  Patrick Eaves                  F   15.0 
+874  Laurent Brossoit               G   15.0 
+875  Victor Ejdsell                 F   15.0 
+876  Andrew Mangiapane              F   15.0 
+877  Jeff Glass                     G   15.0 
+878  Andrew Welinski                D   15.0 
+879  Blake Hillman                  D   15.0 
+880  Mike Smith                     G   14.0 
+881  Cam Ward                       G   14.0 
+882  Matt Moulson                   F   14.0 
+883  Jaycob Megna                   D   14.0 
+884  Ale Hemský                    F   14.0 
+885  Kyle Rau                       F   14.0 
+886  Zach Redmond                   D   14.0 
+887  David Rittich                  G   14.0 
+888  Michael Bournival              F   13.0 
+889  Samuel Morin                   D   13.0 
+890  Rasmus Andersson               D   13.0 
+891  Beau Bennett                   F   13.0 
+892  Jim Howard                     G   13.0 
+893  Adam Clendening                D   13.0 
+894  Jacob Markström                G   13.0 
+895  Steve Bernier                  F   13.0 
+896  Adam Gaudette                  F   13.0 
+897  Frank Corrado                  D   12.0 
+898  Erik Burgdoerfer               D   12.0 
+899  Jordan Greenway                F   12.0 
+900  Travis Boyd                    F   11.0 
+901  Henrik Haapala                 F   11.0 
+902  Henrik Borgström               F   11.0 
+903  Cameron Talbot                 G   11.0 
+904  Calle Rosén                    D   10.0 
+905  Jack Campbell                  G   10.0 
+906  Dakota Mermis                  D   10.0 
+907  Liam O'Brien                   F   10.0 
+908  Michael Hutchinson             G   10.0 
+909  Landon Ferraro                 F   10.0 
+910  Joseph Blandisi                F   10.0 
+911  Tuukka Rask                    G   10.0 
+912  Christopher Gibson             G   10.0 
+913  Eddie Läck                     G   10.0 
+914  Tristan Jarry                  G   10.0 
+915  Marc-Andre Fleury              G   9.0  
+916  Sergei Bobrovsky               G   9.0  
+917  Pekka Rinne                    G   9.0  
+918  Juuse Saros                    G   9.0  
+919  Hudson Fasching                F   9.0  
+920  Chris Butler                   D   8.0  
+921  Louis Belpedio                 D   8.0  
+922  Carson Soucy                   D   8.0  
+923  Keith Kinkaid                  G   8.0  
+924  Logan Brown                    F   8.0  
+925  Anthony Peluso                 F   8.0  
+926  Anton Khudobin                 G   8.0  
+927  Chase Balisy                   F   8.0  
+928  Danick Martel                  F   7.0  
+929  Marek Hrivik                   F   7.0  
+930  Colby Cave                     F   7.0  
+931  Michael Blunden                F   7.0  
+932  James Reimer                   G   7.0  
+933  Sami Niku                      D   7.0  
+934  Patrick Sieloff                D   7.0  
+935  Ben Bishop                     G   7.0  
+936  Ben Sexton                     F   6.0  
+937  John Quenneville               F   6.0  
+938  Blake Pietila                  F   6.0  
+939  Dominic Turgeon                F   6.0  
+940  Connor Hellebuyck              G   6.0  
+941  Jack Rodewald                  F   6.0  
+942  Al Montoya                     G   6.0  
+943  Mike Condon                    G   6.0  
+944  Roberto Luongo                 G   6.0  
+945  Andrew Crescenzi               F   6.0  
+946  Shane Gersich                  F   6.0  
+947  Tyler Graovac                  F   5.0  
+948  Mike McKenna                   G   5.0  
+949  Eeli Tolvanen                  F   5.0  
+950  Collin Delia                   G   5.0  
+951  Eric Comrie                    G   5.0  
+952  Adin Hill                      G   5.0  
+953  Linus Ullmark                  G   5.0  
+954  Christoph Bertschy             F   5.0  
+955  Frederik Andersen              G   5.0  
+956  Matt Murray                    G   5.0  
+957  Brian Elliott                  G   5.0  
+958  Thatcher Demko                 G   5.0  
+959  Kevin Rooney                   F   5.0  
+960  Steven Fogarty                 F   5.0  
+961  Daniel Brickley                D   5.0  
+962  Reto Berra                     G   5.0  
+963  Christian Jaros                D   4.0  
+964  Nathan Gerbe                   F   4.0  
+965  Rinat Valiyev                  D   4.0  
+966  Alexander Nylander             F   4.0  
+967  Keegan Lowe                    D   4.0  
+968  Janne Kuokkanen                F   4.0  
+969  Kari Lehtonen                  G   4.0  
+970  Jaroslav Halak                 G   4.0  
+971  Zach Trotman                   D   4.0  
+972  Andreas Englund                D   4.0  
+973  Jonathan Bernier               G   3.0  
+974  Alex Broadhurst                F   3.0  
+975  Michal Neuvirth                G   3.0  
+976  Anton Forsberg                 G   3.0  
+977  Mark Streit                    D   3.0  
+978  Laurent Dauphin                F   3.0  
+979  Troy Terry                     F   3.0  
+980  Philipp Grubauer               G   3.0  
+981  Darcy Kuemper                  G   3.0  
+982  Michael Hutchinson             G   3.0  
+983  Aaron Dell                     G   3.0  
+984  Zach Whitecloud                D   3.0  
+985  Steve Mason                    G   3.0  
+986  Laurent Brossoit               G   3.0  
+987  Curtis McElhinney              G   3.0  
+988  Joel Hanley                    D   3.0  
+989  Eric Robinson                  F   3.0  
+990  Henrik Lundqvist               G   3.0  
+991  Trevor Carrick                 D   3.0  
+992  Jake Allen                     G   3.0  
+993  Antti Niemi                    G   3.0  
+994  Anders Nilsson                 G   3.0  
+995  Will O'Neill                   D   3.0  
+996  Anton Blidh                    F   3.0  
+997  Justin Auger                   F   2.0  
+998  Michael Dal Colle              F   2.0  
+999  Collin Delia                   G   2.0  
+1000 Kyle Capobianco                D   2.0  
+1001 Nicolas Roy                    F   2.0  
+1002 Nicholas Merkley               F   2.0  
+1003 Justin Kloos                   F   2.0  
+1004 Craig Anderson                 G   2.0  
+1005 Martin Jones                   G   2.0  
+1006 Braden Holtby                  G   2.0  
+1007 Jon Gillies                    G   2.0  
+1008 Robin Lehner                   G   2.0  
+1009 Charlie Lindgren               G   2.0  
+1010 Casey DeSmith                  G   2.0  
+1011 Semyon Varlamov                G   2.0  
+1012 Scott Darling                  G   2.0  
+1013 Louis Domingue                 G   2.0  
+1014 Ondrej Pavelec                 G   2.0  
+1015 Scott Wedgewood                G   2.0  
+1016 Malcolm Subban                 G   2.0  
+1017 Carter Hutton                  G   2.0  
+1018 Vladislav Kamenev              F   2.0  
+1019 Jeff Glass                     G   2.0  
+1020 Cal O'Reilly                   F   1.0  
+1021 Curtis Valk                    F   1.0  
+1022 Nicolas Kerdiles               F   1.0  
+1023 Morgan Klimchuk                F   1.0  
+1024 Martin Marincin                D   1.0  
+1025 Dan Catenacci                  F   1.0  
+1026 Mitch Reinke                   D   1.0  
+1027 Alex Formenton                 F   1.0  
+1028 Wade Megan                     F   1.0  
+1029 Alex Lyon                      G   0.0  
+1030 Marek Langhamer                G   0.0  
+1031 Martin Necas                   F   0.0  
+1032 Ken Appleby                    G   0.0  
+1033 Marek Langhamer                G   0.0  
+1034 Dylan Ferguson                 G   0.0  
+1035 Jean-Francois Berube           G   0.0  
+1036 Calvin Pickard                 G   0.0  
+1037 Carey Price                    G   0.0  
+1038 Dylan Gambrell                 F   0.0  
+1039 Jayson Megna                   F   0.0  
+1040 Antti Raanta                   G   0.0  
+1041 Maxime Lagace                  G   0.0  
+1042 Daniel Taylor                  G   0.0  
+1043 Joonas Korpisalo               G   0.0  
+1044 Andrew Hammond                 G   0.0  
+1045 Andrew Hammond                 G   0.0  
+1046 Adam Wilcox                    G   0.0  
+1047 Eric Comrie                    G   0.0  
+1048 Ken Appleby                    G   0.0  
+1049 Thomas Greiss                  G   0.0  
+1050 Alex Stalock                   G   0.0  
+1051 Ryan Miller                    G   0.0  
+1052 Corey Crawford                 G   0.0  
+1053 Jared Coreau                   G   0.0  
+1054 Mike McKenna                   G   0.0  
+1055 Brian Lashoff                  D   0.0  
+1056 Calvin Pickard                 G   0.0  
+1057 Chad Johnson                   G   0.0  
+1058 Dylan Ferguson                 G   0.0  
+1059 Adam Wilcox                    G   0.0  
+1060 Scott Foster                   G   0.0  
+1061 Peter Budaj                    G   0.0  
+1062 Brandon Halverson              G   0.0  
+1063 Petr Mrazek                    G   0.0  
+1064 Harri Säteri                   G   0.0  
+1065 Alexandar Georgiev             G   0.0  
+1066 Thatcher Demko                 G   0.0  
+1067 Scott Foster                   G   0.0  
+1068 Cory Schneider                 G   0.0  
+1069 Jared Coreau                   G   0.0  
+1070 Daniel Taylor                  G   0.0  
+1071 Linus Ullmark                  G   0.0  
+1072 Christopher Gibson             G   0.0  
+1073 Jack Campbell                  G   0.0  
+1074 Eddie Läck                     G   0.0  
+1075 Brandon Halverson              G   0.0  
+1076 Reto Berra                     G   0.0  
+1077 Oscar Dansk                    G   0.0  
+1078 Adin Hill                      G   0.0  
+1079 Philip Holm                    D   -1.0 
+1080 Giovanni Fiore                 F   -1.0 

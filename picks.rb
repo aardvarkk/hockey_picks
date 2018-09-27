@@ -118,7 +118,7 @@ results.concat(collect_results('Goalies'))
 
 scored_results = results.sort_by{ |stats| stats[:score] }.reverse!
 File.open('picks.txt', 'w') do |f|
-  scored_results.each do |player|
-    f.puts "#{player[:name].ljust(30)} #{(player[:position] || 'G').ljust(3)} #{player[:score].to_s.ljust(5)}"
+  scored_results.each_with_index do |player, idx|
+    f.puts "#{(idx+1).to_s.ljust(4)} #{player[:name].ljust(30)} #{(player[:position] || 'G').ljust(3)} #{player[:score].to_s.ljust(5)}"
   end
 end
